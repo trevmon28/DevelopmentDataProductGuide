@@ -29,22 +29,21 @@ Collection of links to approaches and resources to support data fusion data prod
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447)
 
 
-###Text 
+### Text 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
 * Paper on framework for [massive language sentance embeddings] https://arxiv.org/abs/1812.10464
 
-###Mobile
+### Mobile
 * Flowkit is software toolkit from Flowminder to support [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * UT
 * Telemetry
 * Smartphone
 
+### Network Science
+* Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
 
 ## Ethics, Security & Privacy-Preserving Approaches
-
-##DataOps 
-* AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
 * UN Global Pulse paper on building ethics into [privacy frameworks](https://www.linkedin.com/feed/update/urn:li:activity:6461227561824370688/)
 * Checklist data project https://www.oreilly.com/radar/of-oaths-and-checklists/
 * Tutorial on [privacy preserving methods in Pytorch](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
@@ -52,10 +51,21 @@ Collection of links to approaches and resources to support data fusion data prod
 * Tensor Flow library for [training machine learning models with differential privacy](https://github.com/tensorflow/privacy)
 * Docker https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b
 * United Nations [principles on personal data](https://www.unsceb.org/privacy-principles)
+* Global Pulse [checklist for Data Science Projects](https://www.unglobalpulse.org/policy/risk-assessment/)
+* UN Handbook for [Privacy Preserving Techniques](https://docs.google.com/document/d/1GYu6UJI81jR8LgooXVDsYk1s6FlM-SbOvo3oLHglFhY/edit#)
+* USAID [Data Privacy Methods](https://www.usaid.gov/responsibledata)
 * 
 
-##Learning
+## DataOps 
+* AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
+* Docker [Tutorial](https://www.freecodecamp.org/news/docker-quick-start-video-tutorials-1dfc575522a0/)
+* Anaconda
+* MLFlow and [machine learning project governance](https://www.oreilly.com/content/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190403+data+nl&mkt_tok=eyJpIjoiWW1GaE5UWmxaV0l4TW1OaCIsInQiOiJKTGh0XC9JQ2xVdTQ4QnVtcnpMUzh0ZnFVSTVhMGx0ZlNpOENhTGJkU0xTUjd1TjYxTFVveitDN2s5bUVTR1JtRWM0N3FJaGxlK3E2bURwR25pcUZIRVZseCtOXC9YSklZNnY3UlZIOTJoOW1LdzF2V2lqVlJVdzVTUkFUZ3lSdVo1In0%3D)
+
+
+## Learning
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
+* HitchHiker's Guide to DataScience
 
