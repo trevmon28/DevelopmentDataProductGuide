@@ -77,6 +77,9 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 * Anaconda
 * MLFlow and [machine learning project governance](https://www.oreilly.com/content/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190403+data+nl&mkt_tok=eyJpIjoiWW1GaE5UWmxaV0l4TW1OaCIsInQiOiJKTGh0XC9JQ2xVdTQ4QnVtcnpMUzh0ZnFVSTVhMGx0ZlNpOENhTGJkU0xTUjd1TjYxTFVveitDN2s5bUVTR1JtRWM0N3FJaGxlK3E2bURwR25pcUZIRVZseCtOXC9YSklZNnY3UlZIOTJoOW1LdzF2V2lqVlJVdzVTUkFUZ3lSdVo1In0%3D)
 * Docker https://matthewdharris.com/2017/11/27/a-more-reproducible-research-with-the-liftr-package-for-r/
+* Azure Machine Learning Services
+* Kubernetes
+* DataLakes
 
 
 ## Learning
