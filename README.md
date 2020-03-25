@@ -6,16 +6,16 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
 * Carto Data Explorer package to discover [satellite and other public data sources](https://carto.com/blog/spatial-data-observatory-2/)
-* AWS https://registry.opendata.aws/
-* World Bank, including micro data
+* AWS registry of [Open Data](https://registry.opendata.aws/)
+* World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog); [Open Data](https://data.worldbank.org/); 
 * Kaggle Data Sets https://www.kaggle.com/datasets
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 
 
-## Data Enrichment
+## Data Collection, Labeling
 * Figure 8 is a service for data labeling that uses machine learning and artificial intelligence [Figure8](labels and annotations for your machine learning project)
-* Mturk
-* Prolific
+* Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
+* Prolific platform for [online survey data collection](https://www.prolific.co/)
 * 
 
 ## Data Integration
@@ -26,7 +26,7 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
 * Spacenet
 * Radiant Earth
-* Gridded population products
+* Popgrid collaborative characterisics of [gridded population data products](https://www.popgrid.org/data-docs-table1)
 * DEGURBA
 * Curated list of [Satellite Data sets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447)
@@ -72,6 +72,7 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 * Online version of [Privacy, Big Data, and the Public Good](https://web.stanford.edu/~vcs/papers/Chapter5-BigDataPrivacy-STODDEN.pdf)
 
 ## DataOps 
+* Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
 * AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
 * Docker [Tutorial](https://www.freecodecamp.org/news/docker-quick-start-video-tutorials-1dfc575522a0/)
 * Anaconda
