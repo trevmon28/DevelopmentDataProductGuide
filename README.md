@@ -86,5 +86,5 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
-* HitchHiker's Guide to DataScience
+* HitchHiker's Guide to DataScience repo with [Data Science for Social Good learning resources](https://github.com/dssg/hitchhikers-guide)
 
