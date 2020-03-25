@@ -1,5 +1,5 @@
 # DataAlchemy
-A Hitchhikers Guide to Data Alchemy, modest colleciton of links to support modern data product development 
+A Hitchhikers Guide to links that support the development of hybrid data products
 
 ## Data Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -12,8 +12,11 @@ A Hitchhikers Guide to Data Alchemy, modest colleciton of links to support moder
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 
 
-##Data Enrichment
+## Data Enrichment
 * Figure 8 is a service for data labeling that uses machine learning and artificial intelligence [Figure8](labels and annotations for your machine learning project)
+* Mturk
+* Prolific
+* 
 
 ## Data Integration
 
@@ -39,6 +42,9 @@ A Hitchhikers Guide to Data Alchemy, modest colleciton of links to support moder
 * Good Practices for collecting online data report from [UK NCRM](http://eprints.ncrm.ac.uk/4283/)
 * Good Practices for [NLP with examples repository](https://github.com/microsoft/nlp-recipes/)
 * Albert https://ai.googleblog.com/2019/12/albert-lite-bert-for-self-supervised.html?m=1
+* Stanza, [Stanford NLP library](https://github.com/stanfordnlp/stanza/)
+* GPT-2 [large transformer-based language model](https://openai.com/blog/better-language-models/)
+* Microsoft Project Turing [Natural Language Generation (T-NLG) model](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 
 ### Mobile
 * Flowkit is software toolkit from Flowminder to support [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
@@ -63,6 +69,7 @@ A Hitchhikers Guide to Data Alchemy, modest colleciton of links to support moder
 * USAID [Data Privacy Methods](https://www.usaid.gov/responsibledata)
 * Mapbox prioritizing Privacy when using [location data from maps](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
 * Equitable Algortihms [testimony to Congress from Rayid Ghani](https://financialservices.house.gov/uploadedfiles/hhrg-116-ba00-wstate-ghanir-20200212-u1.pdf)
+* Online version of [Privacy, Big Data, and the Public Good](https://web.stanford.edu/~vcs/papers/Chapter5-BigDataPrivacy-STODDEN.pdf)
 
 ## DataOps 
 * AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
