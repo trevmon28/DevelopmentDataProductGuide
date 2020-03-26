@@ -1,5 +1,5 @@
 # DataAlchemy
-A Hitchhikers Guide to links that support the development of hybrid data products
+A Hitchhikers Guide to practices and resources to support hybrid data products...
 
 ## Data Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
