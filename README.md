@@ -20,7 +20,7 @@ A Hitchhikers Guide to links that support the development of hybrid data product
 
 ## Data Integration
 
-###Satellite 
+## Satellite 
 * COG
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
