@@ -16,7 +16,7 @@ A Hitchhikers Guide to practices and resources to support hybrid data products..
 * Figure 8 is a service for data labeling that uses machine learning and artificial intelligence [Figure8](labels and annotations for your machine learning project)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Prolific platform for [online survey data collection](https://www.prolific.co/)
-* 
+* Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
 
 ## Data Integration
 
