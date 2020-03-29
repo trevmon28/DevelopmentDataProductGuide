@@ -1,5 +1,5 @@
 # DataAlchemy
-A Hitchhikers Guide to practices and resources to support hybrid data products...
+A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development
 
 ## Data Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -33,6 +33,7 @@ A Hitchhikers Guide to practices and resources to support hybrid data products..
 * Curated list of [Satellite Data sets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447)
 * Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
+* Sentinal-Hub Earth Observation [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
 
 
 ### Text 
@@ -47,6 +48,8 @@ A Hitchhikers Guide to practices and resources to support hybrid data products..
 * Stanza, [Stanford NLP library](https://github.com/stanfordnlp/stanza/)
 * GPT-2 [large transformer-based language model](https://openai.com/blog/better-language-models/)
 * Microsoft Project Turing [Natural Language Generation (T-NLG) model](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
+* GLUE - Benchmark framework for [performance of NLP models](https://gluebenchmark.com/)
+
 
 ### Mobile
 * Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
