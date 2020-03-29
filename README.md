@@ -34,6 +34,9 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447)
 * Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
 * Sentinal-Hub Earth Observation [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
+* Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
+* Rastervision is a framework for [deep learning on satellite imagery] (https://rastervision.io/)
+* RoboSat Mapbox product for semantic segmenatation to [extract features from imagery](https://github.com/mapbox/robosat)
 
 
 ### Text 
