@@ -12,9 +12,11 @@ A Hitchhikers Guide to practices and resources to support hybrid data products..
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 
 
-## Data Collection, Labeling
-* Figure 8 is a service for data labeling that uses machine learning and artificial intelligence [Figure8](labels and annotations for your machine learning project)
+## High Frequency Data Collection, Data Labeling, Croudsourced Data Collection
+* Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
+* Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
+* AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
 * Prolific platform for [online survey data collection](https://www.prolific.co/)
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
 
@@ -47,7 +49,7 @@ A Hitchhikers Guide to practices and resources to support hybrid data products..
 * Microsoft Project Turing [Natural Language Generation (T-NLG) model](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 
 ### Mobile
-* Flowkit is software toolkit from Flowminder to support [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
+* Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * UT
 * Telemetry
 * Smartphone
