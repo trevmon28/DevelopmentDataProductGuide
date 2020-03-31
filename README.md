@@ -19,6 +19,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
 * Prolific platform for [online survey data collection](https://www.prolific.co/)
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
+* Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 
 ## Data Integration
 
