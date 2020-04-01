@@ -11,6 +11,8 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Kaggle Data Sets https://www.kaggle.com/datasets
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 * Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
+* World Pop [demographic and population data](https://www.worldpop.org/)
+
 
 
 ## High Frequency Data Collection, Data Labeling, Croudsourced Data Collection
@@ -19,7 +21,12 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
 * AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
 * Prolific platform for [online survey data collection](https://www.prolific.co/)
+* Samasouce [microtasking and labeling service](https://www.samasource.com/?gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign=Samasource+Brand+-+Americas&utm_term=samasource&hsa_acc=4137951007&hsa_cam=1768919643&hsa_grp=69213484472&hsa_ad=342545101336&hsa_src=g&hsa_tgt=kwd-390542262917&hsa_kw=samasource&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE)
+* RapidPro Surveyor tool for [data collection](https://play.google.com/store/apps/details?id=io.rapidpro.surveyor&hl=en_US)
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
+* Premise is crowd source [network for ground insights](https://www.premise.com/)
+* Native Data is [crowd network for local insights](https://www.native.io/)
+
 
 ## Interoperability & Integration
 * Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
@@ -110,6 +117,9 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * GPT-2 [large transformer-based language model](https://openai.com/blog/better-language-models/)
 * Microsoft Project Turing [Natural Language Generation (T-NLG) model](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/)
 * GLUE - Benchmark framework for [performance of NLP models](https://gluebenchmark.com/)
+* Factiva [content API](https://github.com/drivendataorg/deon)
+* Snorkle [programatically building data ](https://www.snorkel.org/)
+
 
 
 ### Mobile
