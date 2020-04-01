@@ -1,7 +1,7 @@
 # DataAlchemy
 A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development
 
-## Data Discovery
+## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
@@ -37,13 +37,21 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 
 
 ## Satellite 
+
 ### Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
 * Planet Explorer portal to explore [Planet and public data](https://www.planet.com/explorer/#/zoom/2.74)
 * Global Change Master Directory enhanced search for [data and tools for earth obervation](https://gcmd.nasa.gov/index.html)
+* Carto Observatory enterprise catlog of [curated data sets](https://carto.com/developers/data-observatory/)
+* Awesome Satellite Data [sets repository](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+* SpaceNet is a corpus of commericial satellite and [labelled imagery for machine learning research](https://spacenetchallenge.github.io/datasets/datasetHomePage.html)
+* Sentinal Hub is a [cloud API for satellite imagery](https://www.sentinel-hub.com/)
+* PopGrid Collaborative is a collaborative for [settlement and populaiton data gridded products](https://www.popgrid.org/home)
+* ESRI Living Atlas of [geographic information](https://livingatlas.arcgis.com/en/)
 
+### Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
@@ -59,6 +67,14 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Rastervision is a framework for [deep learning on satellite imagery] (https://rastervision.io/)
 * RoboSat Mapbox product for semantic segmenatation to [extract features from imagery](https://github.com/mapbox/robosat)
 * GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
+* Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
+* Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
+* Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
+* eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
+
+### Products
+* World Settlement Layer (WSF) [global human settlment mask derived from Landsat and Sentinal](https://urban-tep.eu/puma/tool/?id=574795484&lang=en)
+* Global Urban Footprint (GUF) [global human settlements derived from Airbus sensors](https://urban-tep.eu/puma/tool/?id=567873922)
 
 
 
