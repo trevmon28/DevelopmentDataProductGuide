@@ -34,6 +34,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Schemas.org is a specificaiton to [document data for search indexing](https://schema.org/docs/schemas.html)
 * ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
 * SDMX global initiative to improve [statistical metadata exchange](https://sdmx.org/?page_id=5008)
+* G-DIF
 
 
 ## Satellite 
@@ -50,6 +51,9 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Sentinal Hub is a [cloud API for satellite imagery](https://www.sentinel-hub.com/)
 * PopGrid Collaborative is a collaborative for [settlement and populaiton data gridded products](https://www.popgrid.org/home)
 * ESRI Living Atlas of [geographic information](https://livingatlas.arcgis.com/en/)
+* State of Satellites knowledge product to [compare characteristics of sensors](https://landscape.satsummit.io/)
+
+
 
 ### Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
@@ -70,7 +74,22 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 * Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
+* Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
+
+### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
+* Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
+* Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
+* Pangeo [community platform for big data science](https://rastervision.io/)
+* Robosat [feature extraction tool on Satellite imagery](https://github.com/mapbox/robosat)
+* Point Data Abstraction Library [PDAL](https://pdal.io/)
+* Sentinal [Toolboxes ](https://sentinel.esa.int/web/sentinel/toolboxes)
+* Orfeo toolbox open source [processing of satellite imagery](https://www.orfeo-toolbox.org/)
+* Open Source Geospatial [content management](http://geonode.org/)
+* SNAP common architecture for [sentinal toolboxes](https://step.esa.int/main/toolboxes/snap/)
+* Raster Foundary platform to extract [features from satellite imagery](https://rasterfoundry.azavea.com/)
+
+
 
 ### Products
 * World Settlement Layer (WSF) [global human settlment mask derived from Landsat and Sentinal](https://urban-tep.eu/puma/tool/?id=574795484&lang=en)
@@ -95,9 +114,11 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 
 ### Mobile
 * Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
-* UT
+* Universit of Tokyo [CDR Analysis Toolkit](https://github.com/shibalab/CDR-analysis-tools-std)
+* SciKit Mobility [python package for mobility analytics](https://github.com/scikit-mobility/scikit-mobility)
 * Telemetry
 * Smartphone
+* Bandicoot open source [python toolkit to analyze mobile data](https://bandicoot.media.mit.edu/docs/)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
@@ -117,6 +138,10 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Mapbox prioritizing Privacy when using [location data from maps](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
 * Equitable Algortihms [testimony to Congress from Rayid Ghani](https://financialservices.house.gov/uploadedfiles/hhrg-116-ba00-wstate-ghanir-20200212-u1.pdf)
 * Online version of [Privacy, Big Data, and the Public Good](https://web.stanford.edu/~vcs/papers/Chapter5-BigDataPrivacy-STODDEN.pdf)
+* Deon is a [checklist for privacy and ethics](https://github.com/drivendataorg/deon)
+
+##
+* GeoPandas [geospatial library](https://geopandas.org/)
 
 ## DataOps 
 * Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
