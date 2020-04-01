@@ -13,8 +13,6 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
 * World Pop [demographic and population data](https://www.worldpop.org/)
 
-
-
 ## High Frequency Data Collection, Data Labeling, Croudsourced Data Collection
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
@@ -26,6 +24,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
 * Premise is crowd source [network for ground insights](https://www.premise.com/)
 * Native Data is [crowd network for local insights](https://www.native.io/)
+* Qfield ground [data collection tool ](https://qfield.org/)
 
 
 ## Interoperability & Integration
@@ -42,6 +41,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
 * SDMX global initiative to improve [statistical metadata exchange](https://sdmx.org/?page_id=5008)
 * G-DIF
+* Guide for [geo-referencing ground data for machine learning](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 
 
 ## Satellite 
@@ -119,7 +119,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * GLUE - Benchmark framework for [performance of NLP models](https://gluebenchmark.com/)
 * Factiva [content API](https://github.com/drivendataorg/deon)
 * Snorkle [programatically building data ](https://www.snorkel.org/)
-
+* Tutorial on using [Facebook API for demographic research](https://github.com/SofiaG1l/Using_Facebook_API)
 
 
 ### Mobile
