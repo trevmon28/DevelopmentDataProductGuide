@@ -10,6 +10,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog); [Open Data](https://data.worldbank.org/); 
 * Kaggle Data Sets https://www.kaggle.com/datasets
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
+* Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
 
 
 ## High Frequency Data Collection, Data Labeling, Croudsourced Data Collection
@@ -19,12 +20,31 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
 * Prolific platform for [online survey data collection](https://www.prolific.co/)
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
-* Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 
-## Data Integration
+## Interoperability & Integration
+* Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
+* Tidy Data by Hadley Wickham provides [guidance data structure and cleaning for integration](https://en.wikipedia.org/wiki/Tidy_data)
+* Grid based sampling design [framework for household surveys](https://grid3.org/publications/grid-based-sample-design-framework-for-household-surveys)
+* GeoStat guidance on [spatial grid statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php/Population_grids#The_GEOSTAT_initiative)
+* IEED Big Data Interoperability Framework [NBDIF](https://bigdatawg.nist.gov/V3_output_docs.php)
+* Analysis Ready Data [defined](https://medium.com/planet-stories/analysis-ready-data-defined-5694f6f48815)
+* IPUMS Census and Survey [documentation](https://ipums.org/)
+* Data Documetation Initiative specification for documenting survey and observational study data [DDi](https://ddialliance.org/)
+* Dublin Core Meta-Data initiative provides [good practice on documentation of data](https://dublincore.org/)
+* Schemas.org is a specificaiton to [document data for search indexing](https://schema.org/docs/schemas.html)
+* ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
+* SDMX global initiative to improve [statistical metadata exchange](https://sdmx.org/?page_id=5008)
+
 
 ## Satellite 
-* COG
+### Discovery
+* Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
+* NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
+* Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
+* Planet Explorer portal to explore [Planet and public data](https://www.planet.com/explorer/#/zoom/2.74)
+* Global Change Master Directory enhanced search for [data and tools for earth obervation](https://gcmd.nasa.gov/index.html)
+
+* Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
 * Spacenet
@@ -38,6 +58,8 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision is a framework for [deep learning on satellite imagery] (https://rastervision.io/)
 * RoboSat Mapbox product for semantic segmenatation to [extract features from imagery](https://github.com/mapbox/robosat)
+* GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
+
 
 
 ### Text 
