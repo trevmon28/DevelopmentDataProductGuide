@@ -168,3 +168,4 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * DataScience repo with [Data Science for Social Good learning resources](https://github.com/dssg/hitchhikers-guide)
 * Berkely initiative for Transparancy in the Social Sciences [BITSS](https://github.com/BITSS)
 * ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
+* On new data sources for the [production of official statistics](https://arxiv.org/pdf/2003.06797.pdf)
