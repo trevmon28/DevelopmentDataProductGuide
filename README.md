@@ -1,5 +1,12 @@
 # DataAlchemy
-A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development
+
+Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
+
+## Foundational Tools
+* Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
+* Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
+* Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
+* 
 
 ## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -13,7 +20,7 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
 * World Pop [demographic and population data](https://www.worldpop.org/)
 
-## High Frequency Data Collection, Data Labeling, Croudsourced Data Collection
+## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
@@ -38,9 +45,8 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Data Documetation Initiative specification for documenting survey and observational study data [DDi](https://ddialliance.org/)
 * Dublin Core Meta-Data initiative provides [good practice on documentation of data](https://dublincore.org/)
 * Schemas.org is a specificaiton to [document data for search indexing](https://schema.org/docs/schemas.html)
-* ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
 * SDMX global initiative to improve [statistical metadata exchange](https://sdmx.org/?page_id=5008)
-* G-DIF
+* G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
 * Guide for [geo-referencing ground data for machine learning](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 
 
@@ -59,50 +65,40 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * PopGrid Collaborative is a collaborative for [settlement and populaiton data gridded products](https://www.popgrid.org/home)
 * ESRI Living Atlas of [geographic information](https://livingatlas.arcgis.com/en/)
 * State of Satellites knowledge product to [compare characteristics of sensors](https://landscape.satsummit.io/)
-
-
+* Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447
+* GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
+* Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 
 ### Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
-* Spacenet
-* Radiant Earth
-* Popgrid collaborative characterisics of [gridded population data products](https://www.popgrid.org/data-docs-table1)
-* DEGURBA
-* Curated list of [Satellite Data sets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
-* Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447)
 * Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
 * Sentinal-Hub Earth Observation, eo-learn [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
-* Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
-* Rastervision is a framework for [deep learning on satellite imagery] (https://rastervision.io/)
-* RoboSat Mapbox product for semantic segmenatation to [extract features from imagery](https://github.com/mapbox/robosat)
-* GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
-* Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 * Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
 * Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
+* G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
 
-### Analytics
+
+### Satellite Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
 * Pangeo [community platform for big data science](https://rastervision.io/)
-* Robosat [feature extraction tool on Satellite imagery](https://github.com/mapbox/robosat)
+* Robosat library [feature extraction tool for extracting geospatial OSM features](https://github.com/mapbox/robosat)
 * Point Data Abstraction Library [PDAL](https://pdal.io/)
 * Sentinal [Toolboxes ](https://sentinel.esa.int/web/sentinel/toolboxes)
 * Orfeo toolbox open source [processing of satellite imagery](https://www.orfeo-toolbox.org/)
 * Open Source Geospatial [content management](http://geonode.org/)
 * SNAP common architecture for [sentinal toolboxes](https://step.esa.int/main/toolboxes/snap/)
 * Raster Foundary platform to extract [features from satellite imagery](https://rasterfoundry.azavea.com/)
+* GeoPandas [geospatial library](https://geopandas.org/)
 
 
-
-### Products
+### Gridded Satellite Products
 * World Settlement Layer (WSF) [global human settlment mask derived from Landsat and Sentinal](https://urban-tep.eu/puma/tool/?id=574795484&lang=en)
 * Global Urban Footprint (GUF) [global human settlements derived from Airbus sensors](https://urban-tep.eu/puma/tool/?id=567873922)
-
-
 
 ### Text 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
@@ -120,15 +116,22 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Factiva [content API](https://github.com/drivendataorg/deon)
 * Snorkle [programatically building data ](https://www.snorkel.org/)
 * Tutorial on using [Facebook API for demographic research](https://github.com/SofiaG1l/Using_Facebook_API)
+* Kaggle [text data sets](https://www.kaggle.com/tags/text-data)
+* Awesome NLP [curated list of NLP data](https://github.com/keon/awesome-nlp)
+* NLTK [python library for NLP](https://www.nltk.org/)
+* Apache Open NLP is a [machine learning toolkit for NLP](https://opennlp.apache.org/)
 
 
-### Mobile
+### Mobile 
 * Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * Universit of Tokyo [CDR Analysis Toolkit](https://github.com/shibalab/CDR-analysis-tools-std)
 * SciKit Mobility [python package for mobility analytics](https://github.com/scikit-mobility/scikit-mobility)
-* Telemetry
-* Smartphone
+* Cuebiq data is an aggregator of [data from mobile smartphone apps](https://www.cuebiq.com/)
+* Mapbox Telemetry collects mobility [information from map app and device](https://www.mapbox.com/telemetry/)
+* Orbital Insight [foot traffic information](https://orbitalinsight.com/products/orbital-insight-go/)
+* Google Open Mobile [developer API](https://console.cloud.google.com/storage/browser/openmobiledata_public?pli=1)
 * Bandicoot open source [python toolkit to analyze mobile data](https://bandicoot.media.mit.edu/docs/)
+* Mirage [traffic data collection](http://traffic.comics.unina.it/mirage/)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
@@ -150,9 +153,6 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * Online version of [Privacy, Big Data, and the Public Good](https://web.stanford.edu/~vcs/papers/Chapter5-BigDataPrivacy-STODDEN.pdf)
 * Deon is a [checklist for privacy and ethics](https://github.com/drivendataorg/deon)
 
-##
-* GeoPandas [geospatial library](https://geopandas.org/)
-
 ## DataOps 
 * Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
 * AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
@@ -165,9 +165,10 @@ A Hitchhikers Guide to support the tradecraft of making data products that combi
 * DataLakes
 
 
-## Learning
+## Data Fusion Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
 * DataScience repo with [Data Science for Social Good learning resources](https://github.com/dssg/hitchhikers-guide)
-
+* Berkely initiative for Transparancy in the Social Sciences [BITSS](https://github.com/BITSS)
+* ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
