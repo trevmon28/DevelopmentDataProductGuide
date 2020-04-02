@@ -2,11 +2,11 @@
 
 Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
 
-## Foundational Tools
+## Foundational Data Science
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
-* 
+* Google Earth Engine is a first rate platform for [geospatial data science](https://earthengine.google.com/)
 
 ## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -50,7 +50,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Guide for [geo-referencing ground data for machine learning](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 
 
-## Satellite 
+## Satellite Data 
 
 ### Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -122,7 +122,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Apache Open NLP is a [machine learning toolkit for NLP](https://opennlp.apache.org/)
 
 
-### Mobile 
+### Mobile Data 
 * Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * Universit of Tokyo [CDR Analysis Toolkit](https://github.com/shibalab/CDR-analysis-tools-std)
 * SciKit Mobility [python package for mobility analytics](https://github.com/scikit-mobility/scikit-mobility)
@@ -157,12 +157,8 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
 * AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
 * Docker [Tutorial](https://www.freecodecamp.org/news/docker-quick-start-video-tutorials-1dfc575522a0/)
-* Anaconda
 * MLFlow and [machine learning project governance](https://www.oreilly.com/content/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190403+data+nl&mkt_tok=eyJpIjoiWW1GaE5UWmxaV0l4TW1OaCIsInQiOiJKTGh0XC9JQ2xVdTQ4QnVtcnpMUzh0ZnFVSTVhMGx0ZlNpOENhTGJkU0xTUjd1TjYxTFVveitDN2s5bUVTR1JtRWM0N3FJaGxlK3E2bURwR25pcUZIRVZseCtOXC9YSklZNnY3UlZIOTJoOW1LdzF2V2lqVlJVdzVTUkFUZ3lSdVo1In0%3D)
 * Docker https://matthewdharris.com/2017/11/27/a-more-reproducible-research-with-the-liftr-package-for-r/
-* Azure Machine Learning Services
-* Kubernetes
-* DataLakes
 
 
 ## Data Fusion Learning Resources
