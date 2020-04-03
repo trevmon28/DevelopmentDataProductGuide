@@ -133,6 +133,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Google Open Mobile [developer API](https://console.cloud.google.com/storage/browser/openmobiledata_public?pli=1)
 * Bandicoot open source [python toolkit to analyze mobile data](https://bandicoot.media.mit.edu/docs/)
 * Mirage [traffic data collection](http://traffic.comics.unina.it/mirage/)
+* OpenCellID [cell tower open data](https://opencellid.org/)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
