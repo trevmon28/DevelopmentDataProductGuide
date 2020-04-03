@@ -48,6 +48,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * SDMX global initiative to improve [statistical metadata exchange](https://sdmx.org/?page_id=5008)
 * G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
 * Guide for [geo-referencing ground data for machine learning](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
+* GeoJSON format for [encoding variety of geographic data structures](https://geojson.org/)
 
 
 ## Satellite Data 
