@@ -70,7 +70,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 
-### Interoperability
+### Enrichment, Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
@@ -80,6 +80,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
 * Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
 * G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
+* Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 
 
 ### Satellite Analytics
