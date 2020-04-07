@@ -155,6 +155,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Equitable Algortihms [testimony to Congress from Rayid Ghani](https://financialservices.house.gov/uploadedfiles/hhrg-116-ba00-wstate-ghanir-20200212-u1.pdf)
 * Online version of [Privacy, Big Data, and the Public Good](https://web.stanford.edu/~vcs/papers/Chapter5-BigDataPrivacy-STODDEN.pdf)
 * Deon is a [checklist for privacy and ethics](https://github.com/drivendataorg/deon)
+* GSMA Covid19 [privacy guidlines](https://www.gsma.com/publicpolicy/resources/covid-19-privacy-guidelines)
 
 ## DataOps 
 * Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
