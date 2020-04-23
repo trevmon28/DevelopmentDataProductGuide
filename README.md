@@ -135,6 +135,8 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Bandicoot open source [python toolkit to analyze mobile data](https://bandicoot.media.mit.edu/docs/)
 * Mirage [traffic data collection](http://traffic.comics.unina.it/mirage/)
 * OpenCellID [cell tower open data](https://opencellid.org/)
+* ITU Handbook on [Mobile Data Statisitcs](https://unstats.un.org/bigdata/taskteams/mobilephone/Handbook%20on%20Mobile%20Phone%20Data%20for%20official%20statistics%20-%20Draft%20Nov%202017.pdf)
+* ITU methodoligy guide on uing [big data for official statistics}(https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
