@@ -70,6 +70,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+* xView is an [overhead imagery training data set](http://xviewdataset.org/)
 
 ### Enrichment, Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
@@ -84,7 +85,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 
 
-### Satellite Analytics
+### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
