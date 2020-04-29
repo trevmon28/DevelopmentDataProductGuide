@@ -51,7 +51,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GeoJSON format for [encoding variety of geographic data structures](https://geojson.org/)
 
 
-## Satellite Data 
+## Imagery Data 
 
 ### Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -69,6 +69,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447
 * GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
+* Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 
 ### Enrichment, Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
