@@ -124,6 +124,8 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Awesome NLP [curated list of NLP data](https://github.com/keon/awesome-nlp)
 * NLTK [python library for NLP](https://www.nltk.org/)
 * Apache Open NLP is a [machine learning toolkit for NLP](https://opennlp.apache.org/)
+* Newspaper3K is a [python package for text scraping](https://github.com/codelucas/newspaper)
+* Newsapi is an [API to search news articiles](https://newsapi.org/) 
 
 
 ### Mobile Data 
