@@ -109,6 +109,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 
 ### Text 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
+* GDELT [BigQuery event database](project)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
 * Paper on framework for [massive language sentance embeddings] https://arxiv.org/abs/1812.10464
 * Trends in NLP [medium post](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
