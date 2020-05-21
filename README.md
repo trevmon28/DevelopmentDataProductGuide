@@ -2,11 +2,11 @@
 
 Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
 
-## Foundational Data Science
+## General Purpose Data Science Platforms
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
-* Google Earth Engine is a first rate platform for [geospatial data science](https://earthengine.google.com/)
+* Google Earth Engine is a platform for [geospatial data science](https://earthengine.google.com/)
 
 ## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -19,6 +19,9 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 * Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
 * World Pop [demographic and population data](https://www.worldpop.org/)
+* Academic Torrents is a [repository of research data](http://academictorrents.com/)
+* Google [Big Query Public Data Catalog](https://cloud.google.com/bigquery/public-data/)
+* Development Data Lab SHRUG [high resolution admin open data for India](http://www.devdatalab.org/shrug) 
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
