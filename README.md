@@ -25,10 +25,10 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
-* Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
+* Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK Groundtruth Sagemaker](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
 * AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
-* Prolific platform for [online survey data collection](https://www.prolific.co/)
+* Prolific platform for [recruiting participants for data collection](https://www.prolific.co/)
 * Samasouce [microtasking and labeling service](https://www.samasource.com/?gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign=Samasource+Brand+-+Americas&utm_term=samasource&hsa_acc=4137951007&hsa_cam=1768919643&hsa_grp=69213484472&hsa_ad=342545101336&hsa_src=g&hsa_tgt=kwd-390542262917&hsa_kw=samasource&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE)
 * RapidPro Surveyor tool for [data collection](https://play.google.com/store/apps/details?id=io.rapidpro.surveyor&hl=en_US)
 * Facebook Marketing API for [data colleciton tutorial](https://github.com/SofiaG1l/Using_Facebook_API)
