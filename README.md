@@ -7,6 +7,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
 * Google Earth Engine is a platform for [geospatial data science](https://earthengine.google.com/)
+* Domino Data Lab [data science tooling](https://www.dominodatalab.com/)
 
 ## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -78,6 +79,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 ### Enrichment, Interoperability
 * Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
 * STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
+* rio--cogeo is a [plug-in for rasterio to publish COG](https://github.com/cogeotiff/rio-cogeo)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
 * Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
 * Sentinal-Hub Earth Observation, eo-learn [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
