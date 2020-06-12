@@ -2,12 +2,6 @@
 
 Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
 
-## General Purpose Data Science Platforms
-* Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
-* Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
-* Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
-* Google Earth Engine is a platform for [geospatial data science](https://earthengine.google.com/)
-* Domino Data Lab [data science tooling](https://www.dominodatalab.com/)
 
 ## Data Catologs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
@@ -54,9 +48,20 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
 * Guide for [geo-referencing ground data for machine learning](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 * GeoJSON format for [encoding variety of geographic data structures](https://geojson.org/)
+* Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
+* STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
+* rio--cogeo is a [plug-in for rasterio to publish COG](https://github.com/cogeotiff/rio-cogeo)
+* Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
+* Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
+* Sentinal-Hub Earth Observation, eo-learn [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
+* Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
+* Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
+* Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
+* G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
+* Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 
 
-## Imagery Data 
+## Satellite and Imagery Data 
 
 ### Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -76,19 +81,6 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 * xView is an [overhead imagery training data set](http://xviewdataset.org/)
-
-### Enrichment, Interoperability
-* Cloug Optimized GeoTiff is a fomat for cloud native processgin [COG](https://www.cogeo.org/)
-* STAC standard to [catalog ecosystem of geospatial assets](https://www.azavea.com/blog/2019/10/01/stac-creating-an-ecosystem-of-interoperable-spatiotemporal-assets/)
-* rio--cogeo is a [plug-in for rasterio to publish COG](https://github.com/cogeotiff/rio-cogeo)
-* Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
-* Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
-* Sentinal-Hub Earth Observation, eo-learn [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
-* Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
-* Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
-* Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
-* G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
-* Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 
 
 ### Analytics
@@ -173,7 +165,12 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * IHSN Guidance on [microdata anonomization](https://ihsn.org/anonymization)
 * R CRAN statistical [disclosure control methods package](https://cran.r-project.org/web/packages/sdcMicro/index.html)
 
-## DataOps 
+## General Purpose Data Science Platforms & DataOps
+* Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
+* Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
+* Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
+* Google Earth Engine is a platform for [geospatial data science](https://earthengine.google.com/)
+* Domino Data Lab [data science tooling](https://www.dominodatalab.com/)
 * Cookie Cutter Data Science, popular package from DrivenData for [data science project repos](https://drivendata.github.io/cookiecutter-data-science/#data-is-immutable)
 * AMP Lab maintains opensource stac for high performance computing [BDAS](https://amplab.cs.berkeley.edu/software/) 
 * Docker [Tutorial](https://www.freecodecamp.org/news/docker-quick-start-video-tutorials-1dfc575522a0/)
