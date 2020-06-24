@@ -81,6 +81,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 * xView is an [overhead imagery training data set](http://xviewdataset.org/)
+* Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
 
 
 ### Analytics
