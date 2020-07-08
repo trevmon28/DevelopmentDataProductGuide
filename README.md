@@ -167,6 +167,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GSMA Mobile Data and Big Data Analytics [privacy guidlines](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
 * IHSN Guidance on [microdata anonomization](https://ihsn.org/anonymization)
 * R CRAN statistical [disclosure control methods package](https://cran.r-project.org/web/packages/sdcMicro/index.html)
+* Data Science for Social Good [Project Ethics Checklist](https://www.dssgfellowship.org/2015/09/18/an-ethical-checklist-for-data-science/)
 
 ## General Purpose Data Science Platforms & DataOps
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
