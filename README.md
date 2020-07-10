@@ -105,7 +105,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * World Settlement Layer (WSF) [global human settlment mask derived from Landsat and Sentinal](https://urban-tep.eu/puma/tool/?id=574795484&lang=en)
 * Global Urban Footprint (GUF) [global human settlements derived from Airbus sensors](https://urban-tep.eu/puma/tool/?id=567873922)
 
-### Text 
+### Text & Social 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
 * GDELT [BigQuery event database](project)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
@@ -128,6 +128,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Apache Open NLP is a [machine learning toolkit for NLP](https://opennlp.apache.org/)
 * Newspaper3K is a [python package for text scraping](https://github.com/codelucas/newspaper)
 * Newsapi is an [API to search news articiles](https://newsapi.org/) 
+* Social Wathcer is a [python tool to watch changes in Instragram and Twitter accounts}(https://pypi.org/project/social-watcher/)
 
 
 ### Mobile Data 
