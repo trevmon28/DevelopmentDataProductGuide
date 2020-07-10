@@ -128,7 +128,8 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Apache Open NLP is a [machine learning toolkit for NLP](https://opennlp.apache.org/)
 * Newspaper3K is a [python package for text scraping](https://github.com/codelucas/newspaper)
 * Newsapi is an [API to search news articiles](https://newsapi.org/) 
-* Social Wathcer is a [python tool to watch changes in Instragram and Twitter accounts}(https://pypi.org/project/social-watcher/)
+* Social Watcher is a [python tool to watch changes in Instragram and Twitter accounts}(https://pypi.org/project/social-watcher/)
+* PYSocialWatcher is a python tool for [facebook data collection](https://github.com/maraujo/pySocialWatcher)
 
 
 ### Mobile Data 
