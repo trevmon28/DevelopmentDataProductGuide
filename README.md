@@ -59,6 +59,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
 * G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
 * Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
+* Multi-resolution approximation approach for [spatial-temporal modeling}(https://www.sciencedirect.com/science/article/pii/S2211675320300592?via%3Dihub)
 
 
 ## Satellite and Imagery Data 
