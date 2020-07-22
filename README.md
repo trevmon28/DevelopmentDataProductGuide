@@ -172,7 +172,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * R CRAN statistical [disclosure control methods package](https://cran.r-project.org/web/packages/sdcMicro/index.html)
 * Data Science for Social Good [Project Ethics Checklist](https://www.dssgfellowship.org/2015/09/18/an-ethical-checklist-for-data-science/)
 
-## General Purpose Data Science Platforms & DataOps
+## General Purpose Data Science Technology and Process tools
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
@@ -184,6 +184,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * MLFlow and [machine learning project governance](https://www.oreilly.com/content/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190403+data+nl&mkt_tok=eyJpIjoiWW1GaE5UWmxaV0l4TW1OaCIsInQiOiJKTGh0XC9JQ2xVdTQ4QnVtcnpMUzh0ZnFVSTVhMGx0ZlNpOENhTGJkU0xTUjd1TjYxTFVveitDN2s5bUVTR1JtRWM0N3FJaGxlK3E2bURwR25pcUZIRVZseCtOXC9YSklZNnY3UlZIOTJoOW1LdzF2V2lqVlJVdzVTUkFUZ3lSdVo1In0%3D)
 * Docker https://matthewdharris.com/2017/11/27/a-more-reproducible-research-with-the-liftr-package-for-r/
 * Awesome List of [python machine learning frameworks](https://github.com/sorend/awesome-python-machine-learning)
+* Data Science for Social Good [project scoping guide](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/?utm_source=DSSG+list&utm_campaign=ebc8146575-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-ebc8146575-293156453)
 
 
 ## Data Fusion Learning Resources
