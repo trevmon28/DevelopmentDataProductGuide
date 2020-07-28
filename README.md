@@ -187,6 +187,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Data Science for Social Good [project scoping guide](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/?utm_source=DSSG+list&utm_campaign=ebc8146575-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-ebc8146575-293156453)
 * Curated papers on [applied ML with production examples mostly private sector](https://github.com/eugeneyan/applied-ml)
 * Triage is a general purpose [risk modelling and prediction toolkit for social policy problems](https://github.com/dssg/triage?utm_source=DSSG+list&utm_campaign=5c61ea2412-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-5c61ea2412-293156453)
+* Modernization of Official Statistics [HLG-MOS has working papers and projects using machine learning](https://www.unece.org/stats/mos.html)
 
 
 ## Data Fusion Learning Resources
