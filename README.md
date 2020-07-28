@@ -102,6 +102,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * SNAP common architecture for [sentinal toolboxes](https://step.esa.int/main/toolboxes/snap/)
 * Raster Foundary platform to extract [features from satellite imagery](https://rasterfoundry.azavea.com/)
 * GeoPandas [geospatial library](https://geopandas.org/)
+*
 
 
 ### Gridded Satellite Products
@@ -190,6 +191,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Curated papers on [applied ML with production examples mostly private sector](https://github.com/eugeneyan/applied-ml)
 * Triage is a general purpose [risk modelling and prediction toolkit for social policy problems](https://github.com/dssg/triage?utm_source=DSSG+list&utm_campaign=5c61ea2412-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-5c61ea2412-293156453)
 * Modernization of Official Statistics [HLG-MOS has working papers and projects using machine learning](https://www.unece.org/stats/mos.html) and [wiki](https://statswiki.unece.org/display/hlgbas/High-Level+Group+for+the+Modernisation+of+Official+Statistics)
+* UN Global Platform [marketplace for methods](https://marketplace.officialstatistics.org/methods)
 
 
 ## Data Fusion Learning Resources
