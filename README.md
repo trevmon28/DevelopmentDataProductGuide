@@ -102,7 +102,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * SNAP common architecture for [sentinal toolboxes](https://step.esa.int/main/toolboxes/snap/)
 * Raster Foundary platform to extract [features from satellite imagery](https://rasterfoundry.azavea.com/)
 * GeoPandas [geospatial library](https://geopandas.org/)
-*
+* GeosPy package for [geospatial inference](https://methods.officialstatistics.org/algorithms/Geo/GeosPy)
 
 
 ### Gridded Satellite Products
