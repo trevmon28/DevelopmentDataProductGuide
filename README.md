@@ -3,7 +3,7 @@
 Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
 
 
-## Data Catologs and Discovery
+## Data Catalogs and Discovery
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
@@ -18,6 +18,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Google [Big Query Public Data Catalog](https://cloud.google.com/bigquery/public-data/)
 * Development Data Lab SHRUG [high resolution admin open data for India](http://www.devdatalab.org/shrug) 
 * Development Data Partnerships, data sharing with [World Bank, IMF, IDB](https://github.com/datapartnership/welcome#get-started)
+* DCAT [Catalog Vocambulary Standards](https://www.w3.org/TR/vocab-dcat-2/)
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
