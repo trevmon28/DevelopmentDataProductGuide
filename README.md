@@ -147,7 +147,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Mirage [traffic data collection](http://traffic.comics.unina.it/mirage/)
 * OpenCellID [cell tower open data](https://opencellid.org/)
 * ITU Handbook on [Mobile Data Statisitcs](https://unstats.un.org/bigdata/taskteams/mobilephone/Handbook%20on%20Mobile%20Phone%20Data%20for%20official%20statistics%20-%20Draft%20Nov%202017.pdf)
-* ITU methodoligy guide on uing [big data for official statistics}(https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
+* ITU methodoligy guide on uing [big data for official statistics](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
@@ -189,7 +189,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Data Science for Social Good [project scoping guide](http://www.datasciencepublicpolicy.org/home/resources/data-science-project-scoping-guide/?utm_source=DSSG+list&utm_campaign=ebc8146575-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-ebc8146575-293156453)
 * Curated papers on [applied ML with production examples mostly private sector](https://github.com/eugeneyan/applied-ml)
 * Triage is a general purpose [risk modelling and prediction toolkit for social policy problems](https://github.com/dssg/triage?utm_source=DSSG+list&utm_campaign=5c61ea2412-EMAIL_CAMPAIGN_2020_06_29_02_34_COPY_01&utm_medium=email&utm_term=0_6053f5e6e3-5c61ea2412-293156453)
-* Modernization of Official Statistics [HLG-MOS has working papers and projects using machine learning](https://www.unece.org/stats/mos.html)
+* Modernization of Official Statistics [HLG-MOS has working papers and projects using machine learning](https://www.unece.org/stats/mos.html) and [wiki](https://statswiki.unece.org/display/hlgbas/High-Level+Group+for+the+Modernisation+of+Official+Statistics)
 
 
 ## Data Fusion Learning Resources
