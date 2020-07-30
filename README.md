@@ -104,6 +104,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Raster Foundary platform to extract [features from satellite imagery](https://rasterfoundry.azavea.com/)
 * GeoPandas [geospatial library](https://geopandas.org/)
 * GeosPy package for [geospatial inference](https://methods.officialstatistics.org/algorithms/Geo/GeosPy)
+* GeoMesa is an open source suite of tools that enables [large-scale geospatial querying and analytics on distributed computing systems](https://github.com/locationtech/geomesa)
 
 
 ### Gridded Satellite Products
