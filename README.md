@@ -64,7 +64,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * CoData DDI [interoperability initiative for core data](https://codata.org/initiatives/strategic-programme/decadal-programme/)
 
 
-## Satellite and Imagery Data 
+## Satellite, Imagery, Geospatial Data 
 
 ### Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -86,6 +86,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * xView is an [overhead imagery training data set](http://xviewdataset.org/)
 * Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
 * OSM street map tool (https://observablehq.com/d/176fbd0640a04220)
+* Vector Pipe is an open source library for [working with OSM and writing geometries to vector tile areas](https://github.com/geotrellis/vectorpipe)
 
 
 
