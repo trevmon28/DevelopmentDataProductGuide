@@ -63,6 +63,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Multi-resolution approximation approach for [spatial-temporal modeling}(https://www.sciencedirect.com/science/article/pii/S2211675320300592?via%3Dihub)
 * CoData DDI [interoperability initiative for core data](https://codata.org/initiatives/strategic-programme/decadal-programme/)
 * Practical tools for [designing and weighting survey samples](https://www.springer.com/gp/book/9783319936314?utm_campaign=3_kuhn07_0111_cpm_dotd_spr&utm_content=en_dotd_04012019_01_us&utm_medium=email&utm_source=sap-automated#otherversion=9783319936321)
+* Federal Geographic Data Commitee [geospatial standards](https://www.fgdc.gov/standards)
 
 
 ## Satellite, Imagery, Geospatial Data 
