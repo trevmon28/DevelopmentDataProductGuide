@@ -73,6 +73,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
 * Wikisatnet is a training data repository to peform [large scale pre-training on satellite imagery](https://github.com/uzkent/WikiSatNet)
+* Functional Map of the World Data [satellite training data set}(https://github.com/fMoW/dataset)
 * Planet Explorer portal to explore [Planet and public data](https://www.planet.com/explorer/#/zoom/2.74)
 * Global Change Master Directory enhanced search for [data and tools for earth obervation](https://gcmd.nasa.gov/index.html)
 * Carto Observatory enterprise catlog of [curated data sets](https://carto.com/developers/data-observatory/)
