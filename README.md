@@ -109,6 +109,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GeoPandas [geospatial library](https://geopandas.org/)
 * GeosPy package for [geospatial inference](https://methods.officialstatistics.org/algorithms/Geo/GeosPy)
 * GeoMesa is an open source suite of tools that enables [large-scale geospatial querying and analytics on distributed computing systems](https://github.com/locationtech/geomesa)
+* Chip-n-scale is a queue arranger that helps run [machine learning models on satellite imagery at scale](https://github.com/developmentseed/chip-n-scale-queue-arranger)
 
 
 ### Gridded Population and Settlement Products
