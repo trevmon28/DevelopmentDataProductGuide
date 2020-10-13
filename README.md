@@ -111,10 +111,11 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * GeoMesa is an open source suite of tools that enables [large-scale geospatial querying and analytics on distributed computing systems](https://github.com/locationtech/geomesa)
 
 
-### Gridded Satellite Products
+### Gridded Population and Settlement Products
 * World Settlement Layer (WSF) [global human settlment mask derived from Landsat and Sentinal](https://urban-tep.eu/puma/tool/?id=574795484&lang=en)
 * Global Urban Footprint (GUF) [global human settlements derived from Airbus sensors](https://urban-tep.eu/puma/tool/?id=567873922)
 * Grid3 [bottom up gridded data sets](https://apps.worldpop.org/woprVision/)
+* WorldPop guide to [gridded products and tools](https://www.worldpop.org/methods/populations)
 
 ### Text & Social 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
