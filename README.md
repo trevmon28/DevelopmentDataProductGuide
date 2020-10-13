@@ -180,6 +180,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * IHSN Guidance on [microdata anonomization](https://ihsn.org/anonymization)
 * R CRAN statistical [disclosure control methods package](https://cran.r-project.org/web/packages/sdcMicro/index.html)
 * Data Science for Social Good [Project Ethics Checklist](https://www.dssgfellowship.org/2015/09/18/an-ethical-checklist-for-data-science/)
+* Benchmark inititiative is working on the [Locus Principles for responsible location data](https://benchmarkinitiative.com/charter)
 
 ## General Purpose Data Science Technology and Process tools
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
