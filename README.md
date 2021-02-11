@@ -68,7 +68,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 
 ## Satellite, Imagery, Geospatial Data 
 
-### Discovery
+### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
@@ -117,6 +117,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Global Urban Footprint (GUF) [global human settlements derived from Airbus sensors](https://urban-tep.eu/puma/tool/?id=567873922)
 * Grid3 [bottom up gridded data sets](https://apps.worldpop.org/woprVision/)
 * WorldPop guide to [gridded products and tools](https://www.worldpop.org/methods/populations)
+* SDSN guide to [gridded population products in international development](https://www.sdsntrends.org/research/leavingnooneoffthemap)
 
 ### Text & Social 
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
@@ -205,7 +206,7 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * UN Global Platform [marketplace for methods](https://marketplace.officialstatistics.org/methods)
 
 
-## Data Fusion Learning Resources
+## Data Product Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
@@ -213,3 +214,6 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 * Berkely initiative for Transparancy in the Social Sciences [BITSS](https://github.com/BITSS)
 * ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
 * On new data sources for the [production of official statistics](https://arxiv.org/pdf/2003.06797.pdf)
+* USAID guide on [using ML in international development[(https://www.ictworks.org/wp-content/uploads/2021/02/usaid-guide-artificial-intelligence.pdf)
+* World Bank Data in Action Toolkit for [data product design](https://worldbank.github.io/Data-in-Action/)
+
