@@ -70,6 +70,9 @@ Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high 
 
 ### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
+* USGS earth explorer to search for [public satellite data](https://earthexplorer.usgs.gov/) 
+* Copernicus Open Access Hub provides free access to [Sentinal sensors](https://scihub.copernicus.eu/)
+* Image Hunter to search for [commercial satellite imagery](https://imagehunter.apollomapping.com/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
 * Wikisatnet is a training data repository to peform [large scale pre-training on satellite imagery](https://github.com/uzkent/WikiSatNet)
