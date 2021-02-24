@@ -1,6 +1,6 @@
 # DataAlchemy
 
-Data Alchemy is a Hitchhiker's Guide to support the tradecraft of building high resolution data products that use both traditional data (survey, census, observational studies) with big data sources (Satellite, Mobile, Text). 
+This repository is a Hitchhiker's Guide to support the tradecraft of building data products from both traditional data (survey, census, observational studies) and big data sources (Satellite, Mobile, Text). 
 
 
 ## Data Catalogs and Discovery
