@@ -116,6 +116,7 @@ This repository is a Hitchhiker's Guide to support the tradecraft of building da
 * GeoMesa is an open source suite of tools that enables [large-scale geospatial querying and analytics on distributed computing systems](https://github.com/locationtech/geomesa)
 * Chip-n-scale is a queue arranger that helps run [machine learning models on satellite imagery at scale](https://github.com/developmentseed/chip-n-scale-queue-arranger)
 * Google model search to find [optimal models](https://github.com/google/model_search)
+* Foot is a tool by WorldPop to extract building [footprints from satellite imagery](https://www.linkedin.com/posts/andy-tatem-b199b018_new-worldpop-r-package-foot-now-available-activity-6771017173466009600-Wtcq)
 
 
 ### Gridded Population and Settlement Products
