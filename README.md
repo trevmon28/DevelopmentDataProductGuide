@@ -32,6 +32,7 @@ This repository is a Hitchhiker's Guide to support the tradecraft of building da
 * Premise is crowd source [network for ground insights](https://www.premise.com/)
 * Native Data is [crowd network for local insights](https://www.native.io/)
 * Qfield ground [data collection tool ](https://qfield.org/)
+* Observe is a Open Street Map collection and validation tool from Development Seed and Radiant Solutions [github repo](https://github.com/developmentseed/observe)
 
 
 ## Interoperability & Integration
