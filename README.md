@@ -193,6 +193,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * R CRAN statistical [disclosure control methods package](https://cran.r-project.org/web/packages/sdcMicro/index.html)
 * Data Science for Social Good [Project Ethics Checklist](https://www.dssgfellowship.org/2015/09/18/an-ethical-checklist-for-data-science/)
 * Benchmark inititiative is working on the [Locus Principles for responsible location data](https://benchmarkinitiative.com/charter)
+* UN OCHA's [peer review framework for predictive analytics](https://reliefweb.int/report/world/peer-review-framework-predictive-analytics-humanitarian-response-march-2020)
 
 ## General Purpose Data Science Technology and Process tools
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
