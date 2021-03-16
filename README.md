@@ -218,7 +218,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * UN Global Platform [marketplace for methods](https://marketplace.officialstatistics.org/methods)
 
 
-## Data Product Learning Resources
+## Data Products, Indicators, Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
@@ -228,4 +228,5 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * On new data sources for the [production of official statistics](https://arxiv.org/pdf/2003.06797.pdf)
 * USAID guide on [using ML in international development[(https://www.ictworks.org/wp-content/uploads/2021/02/usaid-guide-artificial-intelligence.pdf)
 * World Bank Data in Action Toolkit for [data product design](https://worldbank.github.io/Data-in-Action/)
+* UN [SDG indicators](https://unstats.un.org/sdgs/dataContacts/)
 
