@@ -153,6 +153,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Newsapi is an [API to search news articiles](https://newsapi.org/) 
 * Social Watcher is a [python tool to watch changes in Instragram and Twitter accounts}(https://pypi.org/project/social-watcher/)
 * PYSocialWatcher is a python tool for [facebook data collection](https://github.com/maraujo/pySocialWatcher)
+* Social Marketing API [data collection tutorial](https://worldbank.github.io/connectivity_mapping/intro.html)
+* Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring) 
 
 
 ### Mobile Data 
