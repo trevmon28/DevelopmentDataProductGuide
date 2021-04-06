@@ -231,4 +231,6 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * USAID guide on [using ML in international development[(https://www.ictworks.org/wp-content/uploads/2021/02/usaid-guide-artificial-intelligence.pdf)
 * World Bank Data in Action Toolkit for [data product design](https://worldbank.github.io/Data-in-Action/)
 * UN [SDG indicators](https://unstats.un.org/sdgs/dataContacts/)
+* [Python for Geosciences tutorial](https://medium.com/analytics-vidhya/python-for-geosciences-working-with-satellite-images-step-by-step-b141dc50e1df)
+* GeoStats Guy [learning resources](https://github.com/GeostatsGuy/Resources/blob/master/README.md)
 
