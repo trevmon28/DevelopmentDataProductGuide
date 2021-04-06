@@ -20,6 +20,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Development Data Partnerships, data sharing with [World Bank, IMF, IDB](https://github.com/datapartnership/welcome#get-started)
 * DCAT [Catalog Vocabulary Standards](https://www.w3.org/TR/vocab-dcat-2/)
 * Radiant Hub [Python client](https://pypi.org/project/radiant-mlhub/)
+* Harvard dataverse [repository of data and code](https://dataverse.harvard.edu/)
+* Geo4Dev repository of [geospatial data and tutorials](https://www.geo4.dev/)
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
