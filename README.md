@@ -101,6 +101,9 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
 * OSM street map tool (https://observablehq.com/d/176fbd0640a04220)
 * Vector Pipe is an open source library for [working with OSM and writing geometries to vector tile areas](https://github.com/geotrellis/vectorpipe)
+* bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
+* Descartes Lab provides [platform for satellite data processing and modeling tools](https://www.descarteslabs.com/)
+
 
 
 
