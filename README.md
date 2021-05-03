@@ -103,9 +103,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Vector Pipe is an open source library for [working with OSM and writing geometries to vector tile areas](https://github.com/geotrellis/vectorpipe)
 * bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
 * Descartes Lab provides [platform for satellite data processing and modeling tools](https://www.descarteslabs.com/)
-
-
-
+* GeoTrellis is an [open source library for geo-processing](https://geotrellis.io/?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
+* RasterVision is an [open source framework for deep learning on satellite imagery](https://github.com/azavea/raster-vision?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 
 ### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
