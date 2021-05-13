@@ -177,6 +177,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * ITU Handbook on [Mobile Data Statisitcs](https://unstats.un.org/bigdata/taskteams/mobilephone/Handbook%20on%20Mobile%20Phone%20Data%20for%20official%20statistics%20-%20Draft%20Nov%202017.pdf)
 * ITU methodoligy guide on uing [big data for official statistics](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
 * DIAL [MD4D handbook](https://resources.dial.community/resources/md4d_handbook)
+* World Bank [mobility task force resources](https://worldbank.github.io/COVID19-WBG-Mobility-Task-Force/) 
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
@@ -229,7 +230,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Template for [machine learning design](https://github.com/eugeneyan/ml-design-docs)
 
 
-## Data Products, Indicators, Learning Resources
+## Other Data Project, Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
@@ -242,4 +243,5 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * UN [SDG indicators](https://unstats.un.org/sdgs/dataContacts/)
 * [Python for Geosciences tutorial](https://medium.com/analytics-vidhya/python-for-geosciences-working-with-satellite-images-step-by-step-b141dc50e1df)
 * GeoStats Guy [learning resources](https://github.com/GeostatsGuy/Resources/blob/master/README.md)
+* World Bank Data in Action Toolkit for [designing and scoping data projects](https://worldbank.github.io/Data-in-Action/)
 
