@@ -206,6 +206,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * UN OCHA's [peer review framework for predictive analytics](https://reliefweb.int/report/world/peer-review-framework-predictive-analytics-humanitarian-response-march-2020)
 * UN [Ethical AI Paper](https://unite.un.org/sites/unite.un.org/files/unite_paper_-_ethical_ai_at_the_un.pdf)
 * ICRC [handbook on data protection in humanitarian action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
+* ICDPPC Resolution on [Privacy and Humanitarian action](https://www.apda.ad/sites/default/files/2018-10/2015_7_resolution-on-privacy-and-international-humanitarian-action-en.pdf)
 
 ## General Purpose Data Science Technology and Process tools
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
