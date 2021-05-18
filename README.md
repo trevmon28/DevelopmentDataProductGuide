@@ -231,6 +231,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Modernization of Official Statistics [HLG-MOS has working papers and projects using machine learning](https://www.unece.org/stats/mos.html) and [wiki](https://statswiki.unece.org/display/hlgbas/High-Level+Group+for+the+Modernisation+of+Official+Statistics)
 * UN Global Platform [marketplace for methods](https://marketplace.officialstatistics.org/methods)
 * Template for [machine learning design](https://github.com/eugeneyan/ml-design-docs)
+* Apache Airflow is a platform for [managing data science workflows](https://airflow.apache.org/)
+* Prefect is a [python based platform to automate data science workflows](https://docs.prefect.io/)
 
 
 ## Other Data Project, Learning Resources
