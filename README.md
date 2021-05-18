@@ -29,6 +29,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK Groundtruth Sagemaker](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
 * AWS SageMaker Ground Truth [data labeling, tasking service](https://aws.amazon.com/sagemaker/groundtruth/)
+* Azavea [groundwork imagery data labelling](https://groundwork.azavea.com/)
 * Prolific platform for [recruiting participants for data collection](https://www.prolific.co/)
 * Samasouce [microtasking and labeling service](https://www.samasource.com/?gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE&utm_source=google&utm_medium=cpc&utm_campaign=Samasource+Brand+-+Americas&utm_term=samasource&hsa_acc=4137951007&hsa_cam=1768919643&hsa_grp=69213484472&hsa_ad=342545101336&hsa_src=g&hsa_tgt=kwd-390542262917&hsa_kw=samasource&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI1ZOZ7si-6AIVxJ6zCh1I9QkYEAAYAyAAEgI0nvD_BwE)
 * RapidPro Surveyor tool for [data collection](https://play.google.com/store/apps/details?id=io.rapidpro.surveyor&hl=en_US)
@@ -69,6 +70,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * CoData DDI [interoperability initiative for core data](https://codata.org/initiatives/strategic-programme/decadal-programme/)
 * Practical tools for [designing and weighting survey samples](https://www.springer.com/gp/book/9783319936314?utm_campaign=3_kuhn07_0111_cpm_dotd_spr&utm_content=en_dotd_04012019_01_us&utm_medium=email&utm_source=sap-automated#otherversion=9783319936321)
 * Federal Geographic Data Commitee [geospatial standards](https://www.fgdc.gov/standards)
+* SAR [Data Labelling Guide](https://www.azavea.com/blog/2021/04/27/labeling-sar-imagery-for-machine-learning-a-beginners-guide/?utm_source=Azavea+Newsletter&utm_campaign=3991872ac6-SAR_ML_Newsletter_COPY_01&utm_medium=email&utm_term=0_d189bde191-3991872ac6-415121589)
 
 
 ## Satellite, Imagery, Geospatial Data 
