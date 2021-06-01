@@ -38,6 +38,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Native Data is [crowd network for local insights](https://www.native.io/)
 * Qfield ground [data collection tool ](https://qfield.org/)
 * Observe is a Open Street Map collection and validation tool from Development Seed and Radiant Solutions [github repo](https://github.com/developmentseed/observe)
+* Understanding [ground survey requirements for Remote Sensing Measurements](https://documents1.worldbank.org/curated/en/339781617301798195/pdf/Understanding-the-Requirements-for-Surveys-to-Support-Satellite-Based-Crop-Type-Mapping-Evidence-from-Sub-Saharan-Africa.pdf)
 
 
 ## Interoperability & Integration
