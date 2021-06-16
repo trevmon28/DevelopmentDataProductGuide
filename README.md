@@ -234,6 +234,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Template for [machine learning design](https://github.com/eugeneyan/ml-design-docs)
 * Apache Airflow is a platform for [managing data science workflows](https://airflow.apache.org/)
 * Prefect is a [python based platform to automate data science workflows](https://docs.prefect.io/)
+* Curated list of [machine learning interpretability resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
 
 ## Other Data Project, Learning Resources
