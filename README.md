@@ -79,6 +79,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 ### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
 * USGS earth explorer to search for [public satellite data](https://earthexplorer.usgs.gov/) 
+* Soar is an [atlas of imagery from satellites and drones](https://about.soar.earth/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9GYuxEwLA7P8j4WA_Rh0zkTwWQEJO5Q19EE0ogXdMBZQHWMagosgY0aAlurEALw_wcB)
 * Copernicus Open Access Hub provides free access to [Sentinal sensors](https://scihub.copernicus.eu/)
 * Image Hunter to search for [commercial satellite imagery](https://imagehunter.apollomapping.com/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
@@ -99,15 +100,9 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Radiant Earth labelled [Open Library for Machine Learning](https://mlhub.earth/?utm_source=Radiant+Newsletter&utm_campaign=3bfe028ab1-March%2FApril+2018+Newsletter_COPY_01&utm_medium=email&utm_term=0_bb6bbe767b-3bfe028ab1-98785447
 * GeoNetwork is a catolog [application to publish geospatial data](https://geonetwork-opensource.org/)
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
-* Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
-* xView is an [overhead imagery training data set](http://xviewdataset.org/)
+* bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
 * Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
 * OSM street map tool (https://observablehq.com/d/176fbd0640a04220)
-* Vector Pipe is an open source library for [working with OSM and writing geometries to vector tile areas](https://github.com/geotrellis/vectorpipe)
-* bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
-* Descartes Lab provides [platform for satellite data processing and modeling tools](https://www.descarteslabs.com/)
-* GeoTrellis is an [open source library for geo-processing](https://geotrellis.io/?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
-* RasterVision is an [open source framework for deep learning on satellite imagery](https://github.com/azavea/raster-vision?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 
 ### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
@@ -129,6 +124,12 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Foot is a tool by WorldPop to extract building [footprints from satellite imagery](https://www.linkedin.com/posts/andy-tatem-b199b018_new-worldpop-r-package-foot-now-available-activity-6771017173466009600-Wtcq)
 * Spatial Satellite [feature Processing python tool](https://github.com/jgrss/spfeas)
 * PyViz site contains [python tools for data visualization](https://pyviz.org/)
+* Yolov3 trains [classifers using bounding box approach](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+* xView is an [overhead imagery training data set](http://xviewdataset.org/)
+* Vector Pipe is an open source library for [working with OSM and writing geometries to vector tile areas](https://github.com/geotrellis/vectorpipe)
+* Descartes Lab provides [platform for satellite data processing and modeling tools](https://www.descarteslabs.com/)
+* GeoTrellis is an [open source library for geo-processing](https://geotrellis.io/?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
+* RasterVision is an [open source framework for deep learning on satellite imagery](https://github.com/azavea/raster-vision?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 
 
 ### Gridded Population and Settlement Products
