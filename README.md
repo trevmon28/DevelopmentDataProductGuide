@@ -1,4 +1,4 @@
-# Resources for Development Data Products
+# Resources for Development Maching Learning Data Products
 
 Hitchhiker's collection of links to data catalogs and tools to build modern development data products from conventional (survey, census, observational studies) and big data (Satellite, Mobile, Text) sources 
 
