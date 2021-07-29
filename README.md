@@ -268,4 +268,5 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * GeoStats Guy [learning resources](https://github.com/GeostatsGuy/Resources/blob/master/README.md)
 * World Bank Data in Action Toolkit for [designing and scoping data projects](https://worldbank.github.io/Data-in-Action/)
 * Running [Rstudio with Google Earth Engine](https://jstnbraaten.medium.com/running-google-earth-engine-from-rstudio-cloud-3faba86af8a5)
+* A [Gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
