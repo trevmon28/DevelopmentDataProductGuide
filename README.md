@@ -9,6 +9,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * AWS registry of [Open Data](https://registry.opendata.aws/)
 * World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog)
 * World Bank [Open Data](https://data.worldbank.org/)
+* US gov [open data portal](https://www.data.gov/)
+* [European Union data portal](https://data.europa.eu/en) 
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
 * Carto Data Explorer package to discover [satellite and other public data sources](https://carto.com/blog/spatial-data-observatory-2/)
