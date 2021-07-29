@@ -243,8 +243,14 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Curated list of [machine learning interpretability resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
 * IBM [Open AI toolkit](https://github.com/Trusted-AI/AIF360)
 
+## Open Data Licenses, and Standards
+* Linux [community open data license agreement](https://cdla.dev/)
+* [Open Data Standards](http://opendefinition.org/)
+* Creative Commons Attribution 4.0 [CC-BY40](Creative Commons Attribution 4.0 (CC-BY 4.0))
+* MIT open source license for [data and data products](https://opensource.org/licenses/MIT) 
 
-## Other Data Project, Learning Resources
+
+## Other Data Project Management and Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable Analytics BITTS
