@@ -137,6 +137,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Descartes Lab provides [platform for satellite data processing and modeling tools](https://www.descarteslabs.com/)
 * GeoTrellis is an [open source library for geo-processing](https://geotrellis.io/?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 * RasterVision is an [open source framework for deep learning on satellite imagery](https://github.com/azavea/raster-vision?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
+* IBM [kpen source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
 
 
 ### Gridded Population and Settlement Products
