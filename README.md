@@ -11,7 +11,9 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * World Bank [Open Data](https://data.worldbank.org/)
 * US gov [open data portal](https://www.data.gov/)
 * [European Union data portal](https://data.europa.eu/en) 
+* AWS data exchange for discovery of [third party data](https://aws.amazon.com/data-exchange/?trk=ps_a134p000006w4fiAAA&trkCampaign=AWSADX_srv_adx_x_ADX-Home&sc_channel=ps&sc_campaign=ps_google_text_Namer_Data-Exchange&sc_outcome=Marketplace&sc_geo=NAMER&sc_publisher=Google&sc_category=Business%20Applications&sc_country=US&sc_detail=data%20exchange&sc_matchtype=p&sc_segment=520927013429&sc_content=Data%20Exchange_p&sc_medium=MKT-P|PS-GO|Non-Brand|Desktop|PA|ADX|Marketplace|US|EN|Text|xx|B2B|PMO21-02873&s_kwcid=AL!4422!3!520927013429!p!!g!!data%20exchange&ef_id=CjwKCAjwo4mIBhBsEiwAKgzXOCPtEsddfmODncsiB49Oi6mhZw3Du3w2D4zMhHV1cBm0G04EV3ZZUxoC6aMQAvD_BwE:G:s&s_kwcid=AL!4422!3!520927013429!p!!g!!data%20exchange)
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
+* IBM [data asset xchange for enterprise data](https://developer.ibm.com/exchanges/data/) 
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
 * Carto Data Explorer package to discover [satellite and other public data sources](https://carto.com/blog/spatial-data-observatory-2/)
 * Kaggle Data Sets https://www.kaggle.com/datasets
