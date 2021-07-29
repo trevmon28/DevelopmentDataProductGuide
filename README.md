@@ -1,4 +1,4 @@
-# Resources Machine Learning Data Products for Development
+# Resources Machine Learning Data Products for Policy Insights
 
 Hitchhiker's collection of links to data catalogs and tools to build modern development data products from conventional (survey, census, observational studies) and big data (Satellite, Mobile, Text) sources 
 
