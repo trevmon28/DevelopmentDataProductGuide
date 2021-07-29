@@ -257,7 +257,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 ## Other Data Project Management and Learning Resources
 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
-* Reusable Analytics BITTS
+* Reusable and Tranparency in Analytics [BITTS](https://www.bitss.org/)
+* Gith and Github [tutorials](https://docs.github.com/en/get-started/quickstart/set-up-git) 
 * DataScience repo with [Data Science for Social Good learning resources](https://github.com/dssg/hitchhikers-guide)
 * Berkely initiative for Transparancy in the Social Sciences [BITSS](https://github.com/BITSS)
 * ONS handbook on [machine learning in imputaiton](https://bookdown.org/v_anandkumar88/ml-imputation/)
