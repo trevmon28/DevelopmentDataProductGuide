@@ -4,7 +4,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 
 
 ## Data Catalogs and Discovery
-* Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
+* Open Knowledge Foundatino [Open Data Portal List}(https://datacatalogs.org/search)
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
 * Carto Data Explorer package to discover [satellite and other public data sources](https://carto.com/blog/spatial-data-observatory-2/)
@@ -23,6 +23,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Harvard dataverse [repository of data and code](https://dataverse.harvard.edu/)
 * Geo4Dev repository of [geospatial data and tutorials](https://www.geo4.dev/)
 * Figshare is a [repository for researchers to share data and work](https://figshare.com/)
+* Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
