@@ -4,12 +4,14 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 
 
 ## Data Catalogs and Discovery
-* Open Knowledge Foundatino [Open Data Portal List}(https://datacatalogs.org/search)
+* Open Knowledge Foundatino [Open Data Portal List](https://datacatalogs.org/search)
+* The [UN Data Portal](http://data.un.org/)
+* AWS registry of [Open Data](https://registry.opendata.aws/)
+* World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog)
+* World Bank [Open Data](https://data.worldbank.org/)
 * Google Data Search [optimized for data discovery](https://datasetsearch.research.google.com/)
 * Open Academic Graph [links 3 billon academic graphs](https://www.openacademic.ai/oag/) 
 * Carto Data Explorer package to discover [satellite and other public data sources](https://carto.com/blog/spatial-data-observatory-2/)
-* AWS registry of [Open Data](https://registry.opendata.aws/)
-* World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog); [Open Data](https://data.worldbank.org/); 
 * Kaggle Data Sets https://www.kaggle.com/datasets
 * UCI machine learning library https://archive.ics.uci.edu/ml/index.php
 * Open Street Map crowd-sourced [geospatial information](A Hitchhikers Guide to support the tradecraft of making data products that combine traditional and new data sources for robust, high resolution insights in development)
