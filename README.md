@@ -30,6 +30,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Geo4Dev repository of [geospatial data and tutorials](https://www.geo4.dev/)
 * Figshare is a [repository for researchers to share data and work](https://figshare.com/)
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
+* Place [data for pubic good](https://www.thisisplace.org/)
 
 ## High Frequency Collection, Augmentation, and Crowd-Sourced Data
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
