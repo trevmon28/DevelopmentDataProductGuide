@@ -80,7 +80,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Practical tools for [designing and weighting survey samples](https://www.springer.com/gp/book/9783319936314?utm_campaign=3_kuhn07_0111_cpm_dotd_spr&utm_content=en_dotd_04012019_01_us&utm_medium=email&utm_source=sap-automated#otherversion=9783319936321)
 * Federal Geographic Data Commitee [geospatial standards](https://www.fgdc.gov/standards)
 * SAR [Data Labelling Guide](https://www.azavea.com/blog/2021/04/27/labeling-sar-imagery-for-machine-learning-a-beginners-guide/?utm_source=Azavea+Newsletter&utm_campaign=3991872ac6-SAR_ML_Newsletter_COPY_01&utm_medium=email&utm_term=0_d189bde191-3991872ac6-415121589)
-* Paris21 Guide for [Geospatial Data Integration for Official Statistics](https://paris21.org/news-center/events/launch-webinar-guide-geospatial-data-integration-official-statistics) 
+* Paris21 Guide for [Geospatial Data Integration for Official Statistics](https://paris21.org/sites/default/files/inline-files/Geospatial_Data_Integration_in_Official_Statistics_0_0.pdf) 
 
 
 ## Satellite, Imagery, Geospatial Data 
