@@ -249,6 +249,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Prefect is a [python based platform to automate data science workflows](https://docs.prefect.io/)
 * Curated list of [machine learning interpretability resources](https://github.com/jphall663/awesome-machine-learning-interpretability)
 * IBM [Open AI toolkit](https://github.com/Trusted-AI/AIF360)
+* Argo CD is a [Gitops for delivering Kubernetes](https://argo-cd.readthedocs.io/en/stable/)
 
 ## Open Data Licenses, and Standards
 * Linux [community open data license agreement](https://cdla.dev/)
