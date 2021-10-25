@@ -93,6 +93,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Image Hunter to search for [commercial satellite imagery](https://imagehunter.apollomapping.com/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
+* ExactEarth is a platform for [AIS data for vessel monitoring](https://www.exactearth.com/)
 * EOS LandViewer is a free GIS database that gives [access to the most widely used satellite imagery](https://eos.com/products/landviewer/)
 * Wikisatnet is a training data repository to peform [large scale pre-training on satellite imagery](https://github.com/uzkent/WikiSatNet)
 * Functional Map of the World Data [satellite training data set}(https://github.com/fMoW/dataset)
