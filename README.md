@@ -180,9 +180,10 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring) 
 
 
-### Mobile Data 
+### Mobile Data Tools 
 * Flowkit software toolkit from Flowminder supports [mobile phone data access, managment and analysis](https://web.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * Universit of Tokyo [CDR Analysis Toolkit](https://github.com/shibalab/CDR-analysis-tools-std)
+* GFDDR, Purdue and MindEarth developed [*Mobilkit* algorithms and tutorials for mobile analytics](https://mobilkit.readthedocs.io/en/stable/)
 * SciKit Mobility [python package for mobility analytics](https://github.com/scikit-mobility/scikit-mobility)
 * Cuebiq data is an aggregator of [data from mobile smartphone apps](https://www.cuebiq.com/)
 * Mapbox Telemetry collects mobility [information from map app and device](https://www.mapbox.com/telemetry/)
