@@ -141,7 +141,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * GeoTrellis is an [open source library for geo-processing](https://geotrellis.io/?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 * RasterVision is an [open source framework for deep learning on satellite imagery](https://github.com/azavea/raster-vision?utm_source=Azavea+Newsletter&utm_campaign=470c2bde42-AUTOMATION_Send_2021_Sat_Img_White_Paper_Download_&utm_medium=email&utm_term=0_d189bde191-470c2bde42-415121589)
 * Top [python libraries used in data science](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb)
-* IBM [kpen source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
+* [Geospatial Python Resource Guide](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
+* IBM [Open source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
 
 
 ### Gridded Population and Settlement Products
