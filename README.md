@@ -119,7 +119,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
-* Pangeo [community platform for big data science](https://rastervision.io/)
+* Pangeo [community platform for big data science](https://pangeo.io/)
 * Robosat library [feature extraction tool for extracting geospatial OSM features](https://github.com/mapbox/robosat)
 * Point Data Abstraction Library [PDAL](https://pdal.io/)
 * Sentinal [Toolboxes ](https://sentinel.esa.int/web/sentinel/toolboxes)
