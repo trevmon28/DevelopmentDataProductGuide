@@ -114,6 +114,8 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
 * Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
 * OSM street map tool (https://observablehq.com/d/176fbd0640a04220)
+* AWS [Sagemaker platform](https://studiolab.sagemaker.aws/
+)
 
 ### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
