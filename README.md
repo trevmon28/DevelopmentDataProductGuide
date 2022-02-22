@@ -113,9 +113,9 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Radiant Earth MLHub hosts [training data sets with API](https://www.mlhub.earth/)
 * bird.i is an [aggregator platform for high resolution satellite imagery from leading providers](https://hibirdi.com/)
 * Mapillary street view [Vista data set}(https://www.mapillary.com/dataset/vistas?pKey=aFWuj_m4nGoq3-tDz5KAqQ)
-* OSM street map tool (https://observablehq.com/d/176fbd0640a04220)
-* AWS [Sagemaker platform](https://studiolab.sagemaker.aws/
-)
+* Open Street Map [OSM street map tool}(https://observablehq.com/d/176fbd0640a04220)
+* AWS [Sagemaker platform](https://studiolab.sagemaker.aws/)
+* A python framework for [Synthetic Aperture Radar data processing](https://pypi.org/project/pyroSAR/)
 
 ### Analytics
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
