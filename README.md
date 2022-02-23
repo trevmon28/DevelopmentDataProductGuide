@@ -33,7 +33,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Place [data for pubic good](https://www.thisisplace.org/)
 * Open Buildings is an (open data repository of building footprints)[https://sites.research.google/open-buildings/}
 
-## High Frequency Collection, Augmentation, and Crowd-Sourced Data
+## Data Collection, Labelling, Augmentation tools
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK Groundtruth Sagemaker](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
@@ -48,6 +48,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Qfield ground [data collection tool ](https://qfield.org/)
 * Observe is a Open Street Map collection and validation tool from Development Seed and Radiant Solutions [github repo](https://github.com/developmentseed/observe)
 * Understanding [ground survey requirements for Remote Sensing Measurements](https://documents1.worldbank.org/curated/en/339781617301798195/pdf/Understanding-the-Requirements-for-Surveys-to-Support-Satellite-Based-Crop-Type-Mapping-Evidence-from-Sub-Saharan-Africa.pdf)
+* Mapswipe is a [smartphone app to crowdsource labelling of ritical infrastructure and populations](https://mapswipe.org/en/index.html)
 
 
 ## Interoperability & Integration
