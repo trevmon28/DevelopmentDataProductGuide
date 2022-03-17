@@ -49,6 +49,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Observe is a Open Street Map collection and validation tool from Development Seed and Radiant Solutions [github repo](https://github.com/developmentseed/observe)
 * Understanding [ground survey requirements for Remote Sensing Measurements](https://documents1.worldbank.org/curated/en/339781617301798195/pdf/Understanding-the-Requirements-for-Surveys-to-Support-Satellite-Based-Crop-Type-Mapping-Evidence-from-Sub-Saharan-Africa.pdf)
 * Mapswipe is a [smartphone app to crowdsource labelling of ritical infrastructure and populations](https://mapswipe.org/en/index.html)
+* Fieldscope is a [map-based data collection tool for citizen monitoring of environmental and social change](https://www.fieldscope.org/?utm_source=Azavea+Newsletter&utm_campaign=6da0b1c534-EMAIL_CAMPAIGN_2021_12_10_08_42_COPY_01&utm_medium=email&utm_term=0_d189bde191-6da0b1c534-415121589)
 
 
 ## Interoperability & Integration
