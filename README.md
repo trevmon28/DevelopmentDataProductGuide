@@ -85,6 +85,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Federal Geographic Data Commitee [geospatial standards](https://www.fgdc.gov/standards)
 * SAR [Data Labelling Guide](https://www.azavea.com/blog/2021/04/27/labeling-sar-imagery-for-machine-learning-a-beginners-guide/?utm_source=Azavea+Newsletter&utm_campaign=3991872ac6-SAR_ML_Newsletter_COPY_01&utm_medium=email&utm_term=0_d189bde191-3991872ac6-415121589)
 * Paris21 Guide for [Geospatial Data Integration for Official Statistics](https://paris21.org/sites/default/files/inline-files/Geospatial_Data_Integration_in_Official_Statistics_0_0.pdf) 
+* GeoParquet is a specification for [storing geospatial vector data](https://github.com/opengeospatial/geoparquet)
 
 
 ## Satellite, Imagery, Geospatial Data 
@@ -149,6 +150,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Top [python libraries used in data science](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb)
 * [Geospatial Python Resource Guide](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
 * IBM [Open source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
+* Python Geospatial Collection of [Python tools for Geospatial analysis and visualization](https://github.com/giswqs/geospatial) 
 
 
 ### Gridded Population and Settlement Products
