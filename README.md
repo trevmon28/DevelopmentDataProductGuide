@@ -3,7 +3,7 @@
 Hitchhiker's collection of links to data catalogs and tools to build modern development data products from conventional (survey, census, observational studies) and big data (Satellite, Mobile, Text) sources 
 
 
-## Data Catalogs and Discovery
+## Data Catalogs, Repositories
 * Open Knowledge Foundation [Open Data Portal List](https://datacatalogs.org/search)
 * The [UN Data Portal](http://data.un.org/)
 * AWS registry of [Open Data](https://registry.opendata.aws/)
@@ -29,6 +29,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Harvard dataverse [repository of data and code](https://dataverse.harvard.edu/)
 * Geo4Dev repository of [geospatial data and tutorials](https://www.geo4.dev/)
 * Figshare is a [repository for researchers to share data and work](https://figshare.com/)
+* HDX (Common Operational Data Sets){https://data.humdata.org/dashboards/cod]
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
 * Open Buildings is an (open data repository of building footprints)[https://sites.research.google/open-buildings/]
 Mobile Location Data Providers (GPS)
