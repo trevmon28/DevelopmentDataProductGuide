@@ -31,7 +31,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Figshare is a [repository for researchers to share data and work](https://figshare.com/)
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
 * Place [data for pubic good](https://www.thisisplace.org/)
-* Open Buildings is an (open data repository of building footprints)[https://sites.research.google/open-buildings/}
+* Open Buildings is an (open data repository of building footprints)[https://sites.research.google/open-buildings/]
 
 ## Data Collection, Labelling, Augmentation tools
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
