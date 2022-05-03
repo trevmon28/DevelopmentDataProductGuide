@@ -4,7 +4,7 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 
 
 ## Data Catalogs and Discovery
-* Open Knowledge Foundatino [Open Data Portal List](https://datacatalogs.org/search)
+* Open Knowledge Foundation [Open Data Portal List](https://datacatalogs.org/search)
 * The [UN Data Portal](http://data.un.org/)
 * AWS registry of [Open Data](https://registry.opendata.aws/)
 * World Bank [micro data catalog](https://microdata.worldbank.org/index.php/catalog)
@@ -30,8 +30,16 @@ Hitchhiker's collection of links to data catalogs and tools to build modern deve
 * Geo4Dev repository of [geospatial data and tutorials](https://www.geo4.dev/)
 * Figshare is a [repository for researchers to share data and work](https://figshare.com/)
 * Coleridge Rich Context initiative promotes data disovery with [API and knowledge graph to link data, code, papers](https://coleridgeinitiative.org/richcontext)
-* Place [data for pubic good](https://www.thisisplace.org/)
 * Open Buildings is an (open data repository of building footprints)[https://sites.research.google/open-buildings/]
+Mobile Location Data Providers (GPS)
+* (SafeGraph)[https://www.safegraph.com/]
+* Place [data for pubic good](https://www.thisisplace.org/)
+* (Veraset)[https://www.veraset.com/]
+* (Unacast)[https://www.unacast.com/]
+* (Foursquare)[https://foursquare.com/]
+* (Placer)[https://www.placer.ai/]
+* (Mapbox Location Telemetry)[https://www.mapbox.com/telemetry]
+* (Cuebiq)[https://www.cuebiq.com/]
 
 ## Data Collection, Labelling, Augmentation tools
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
