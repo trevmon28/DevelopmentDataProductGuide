@@ -214,6 +214,7 @@ Mobile Location Data Providers (GPS)
 * ITU methodoligy guide on uing [big data for official statistics](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
 * DIAL [MD4D handbook](https://resources.dial.community/resources/md4d_handbook)
 * World Bank [mobility task force resources](https://worldbank.github.io/COVID19-WBG-Mobility-Task-Force/) 
+* Cider is python software to [analyze mobile phone data](https://global-policy-lab.github.io/cider-documentation/intro.html)
 
 ### Network Science
 * Pytorch for [Graphs](https://github.com/rusty1s/pytorch_geometric)
