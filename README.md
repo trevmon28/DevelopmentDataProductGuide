@@ -42,7 +42,7 @@ Mobile Location Data Providers (GPS)
 * (Mapbox Location Telemetry)[https://www.mapbox.com/telemetry]
 * (Cuebiq)[https://www.cuebiq.com/]
 
-## Data Collection, Labelling, Augmentation tools
+## Data Collection, Augmentation tools
 * Figure 8 is a service for [data labeling and data annotation](https://www.figure-eight.com/)
 * Amazon Mechanical Turk tutorial on [collecting data with Mturk](https://blog.mturk.com/tutorial-gathering-data-with-mturk-781ee85a6db); and [labelling data with MTURK Groundtruth Sagemaker](https://blog.mturk.com/aws-introduces-a-new-way-to-label-data-for-machine-learning-with-mturk-2f9c19866a98)
 * Hive Data service for [data labeling](https://thehive.ai/hive-data?gclid=EAIaIQobChMIwLqcksm-6AIVmoVaBR3x_w3mEAAYASAAEgIVofD_BwE)
@@ -60,6 +60,7 @@ Mobile Location Data Providers (GPS)
 * Kobotoolbox is an [open source suite of tools for data collection](https://www.kobotoolbox.org/) 
 * Mapswipe is a [smartphone app to crowdsource labelling of ritical infrastructure and populations](https://mapswipe.org/en/index.html)
 * Fieldscope is a [map-based data collection tool for citizen monitoring of environmental and social change](https://www.fieldscope.org/?utm_source=Azavea+Newsletter&utm_campaign=6da0b1c534-EMAIL_CAMPAIGN_2021_12_10_08_42_COPY_01&utm_medium=email&utm_term=0_d189bde191-6da0b1c534-415121589)
+* Open Data Kit is a [data collection tool suite](https://getodk.org/)
 
 
 ## Interoperability & Integration
