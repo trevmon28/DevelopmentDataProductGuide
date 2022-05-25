@@ -102,6 +102,7 @@ Mobile Location Data Providers (GPS)
 
 ### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
+* [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)
 * USGS earth explorer to search for [public satellite data](https://earthexplorer.usgs.gov/) 
 * Soar is an [atlas of imagery from satellites and drones](https://about.soar.earth/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9GYuxEwLA7P8j4WA_Rh0zkTwWQEJO5Q19EE0ogXdMBZQHWMagosgY0aAlurEALw_wcB)
 * Copernicus Open Access Hub provides free access to [Sentinal sensors](https://scihub.copernicus.eu/)
