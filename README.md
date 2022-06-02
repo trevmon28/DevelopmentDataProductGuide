@@ -61,6 +61,8 @@ Mobile Location Data Providers (GPS)
 * Mapswipe is a [smartphone app to crowdsource labelling of ritical infrastructure and populations](https://mapswipe.org/en/index.html)
 * Fieldscope is a [map-based data collection tool for citizen monitoring of environmental and social change](https://www.fieldscope.org/?utm_source=Azavea+Newsletter&utm_campaign=6da0b1c534-EMAIL_CAMPAIGN_2021_12_10_08_42_COPY_01&utm_medium=email&utm_term=0_d189bde191-6da0b1c534-415121589)
 * Open Data Kit is a [data collection tool suite](https://getodk.org/)
+* Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
+* * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 
 
 ## Interoperability & Integration
@@ -84,11 +86,9 @@ Mobile Location Data Providers (GPS)
 * Grid3 framework faciltiate the projection of satellite, survey, census [spatial data into gridded format](https://grid3.org/)
 * Downscaling tutorial for [granular measurements](https://carto.com/blog/statistical-downscaling-spatial-resolution/)
 * Sentinal-Hub Earth Observation, eo-learn [python framework for machine learning](https://github.com/sentinel-hub/eo-learn)
-* Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 * Cumulas supports [cloud native processing for EOSDIS](https://nasa.github.io/cumulus/docs/cumulus-docs-readme)
 * Create and use COG Mosaics [Cog-geo](https://github.com/developmentseed/cogeo-mosaic)
 * G-DIF Geostatistical Integration Framework to [combine different sources of spatial information](https://sabineloos.github.io/GDIF-damageprediction/GDIF_nb.html)
-* Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 * Multi-resolution approximation approach for [spatial-temporal modeling}(https://www.sciencedirect.com/science/article/pii/S2211675320300592?via%3Dihub)
 * CoData DDI [interoperability initiative for core data](https://codata.org/initiatives/strategic-programme/decadal-programme/)
 * Practical tools for [designing and weighting survey samples](https://www.springer.com/gp/book/9783319936314?utm_campaign=3_kuhn07_0111_cpm_dotd_spr&utm_content=en_dotd_04012019_01_us&utm_medium=email&utm_source=sap-automated#otherversion=9783319936321)
@@ -132,7 +132,7 @@ Mobile Location Data Providers (GPS)
 * AWS [Sagemaker platform](https://studiolab.sagemaker.aws/)
 * A python framework for [Synthetic Aperture Radar data processing](https://pypi.org/project/pyroSAR/)
 
-### Analytics
+### Analytics, Fusion
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
@@ -162,6 +162,7 @@ Mobile Location Data Providers (GPS)
 * [Geospatial Python Resource Guide](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
 * IBM [Open source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
 * Python Geospatial Collection of [Python tools for Geospatial analysis and visualization](https://github.com/giswqs/geospatial) 
+* [Awesome Data Fusion](https://github.com/px39n/Awesome-Data-Fusion-for-Remote-Sensing) 
 
 
 ### Gridded Population and Settlement Products
