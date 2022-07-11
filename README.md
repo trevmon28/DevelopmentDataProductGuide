@@ -1,6 +1,6 @@
 # Resources for building Data Products for Policy Insights
 
-Hitchhiker's collection of links to data catalogs and tools to build modern development data products from conventional (survey, census, observational studies) and big data (Satellite, Mobile, Text) sources 
+Collection of links to support the production of modern development data products made from both conventional (survey, census) and big data sources (Satellite, Mobile, Text).
 
 
 ## Data Catalogs, Repositories
@@ -98,7 +98,7 @@ Mobile Location Data Providers (GPS)
 * GeoParquet is a specification for [storing geospatial vector data](https://github.com/opengeospatial/geoparquet)
 
 
-## Satellite, Imagery, Geospatial Data 
+## Satellite
 
 ### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -106,6 +106,7 @@ Mobile Location Data Providers (GPS)
 * USGS earth explorer to search for [public satellite data](https://earthexplorer.usgs.gov/) 
 * Soar is an [atlas of imagery from satellites and drones](https://about.soar.earth/?gclid=Cj0KCQjw5auGBhDEARIsAFyNm9GYuxEwLA7P8j4WA_Rh0zkTwWQEJO5Q19EE0ogXdMBZQHWMagosgY0aAlurEALw_wcB)
 * Copernicus Open Access Hub provides free access to [Sentinal sensors](https://scihub.copernicus.eu/)
+* IADF GRSS Search Catalog of [reference and benchmark data sets](https://eod-grss-ieee.com/dataset-search)
 * Image Hunter to search for [commercial satellite imagery](https://imagehunter.apollomapping.com/)
 * NASA Earth Data Search [indexes data from over 50 sensors](https://search.earthdata.nasa.gov/search
 * Maxar [Open Data program](https://www.digitalglobe.com/ecosystem/open-data)
@@ -132,7 +133,7 @@ Mobile Location Data Providers (GPS)
 * AWS [Sagemaker platform](https://studiolab.sagemaker.aws/)
 * A python framework for [Synthetic Aperture Radar data processing](https://pypi.org/project/pyroSAR/)
 
-### Analytics, Fusion
+### Analytics, Integration
 * eo-Learn package for [satellite image processing in Python](https://github.com/sentinel-hub/eo-learn)
 * Solaris open source [machine learning library for geospatial imagery](https://solaris.readthedocs.io/en/latest/)
 * Rastervision open source [framework for deep learning on satellite imagery](https://rastervision.io/)
@@ -249,7 +250,7 @@ Mobile Location Data Providers (GPS)
 * ICRC [handbook on data protection in humanitarian action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
 * ICDPPC Resolution on [Privacy and Humanitarian action](https://www.apda.ad/sites/default/files/2018-10/2015_7_resolution-on-privacy-and-international-humanitarian-action-en.pdf)
 
-## General Purpose Data Science Technology and Process tools
+## General Purpose Data Science 
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
