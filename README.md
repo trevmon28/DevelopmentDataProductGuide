@@ -62,8 +62,8 @@ Mobile Location Data Providers (GPS)
 * Fieldscope is a [map-based data collection tool for citizen monitoring of environmental and social change](https://www.fieldscope.org/?utm_source=Azavea+Newsletter&utm_campaign=6da0b1c534-EMAIL_CAMPAIGN_2021_12_10_08_42_COPY_01&utm_medium=email&utm_term=0_d189bde191-6da0b1c534-415121589)
 * Open Data Kit is a [data collection tool suite](https://getodk.org/)
 * Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
-* * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
-
+* Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
+* Cleanlab flags errors in data sets and helps to clean them up [CleanLab](https://github.com/cleanlab/cleanlab)
 
 ## Interoperability & Integration
 * Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
