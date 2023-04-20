@@ -4,6 +4,7 @@ Collection of links to support the production of modern development data product
 
 
 ## Data Catalogs, Repositories
+* Ipums - [census and survey data around the world](https://www.ipums.org/)
 * Open Knowledge Foundation [Open Data Portal List](https://datacatalogs.org/search)
 * The [UN Data Portal](http://data.un.org/)
 * AWS registry of [Open Data](https://registry.opendata.aws/)
