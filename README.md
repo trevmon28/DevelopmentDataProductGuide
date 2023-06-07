@@ -66,11 +66,12 @@ Mobile Location Data Providers (GPS)
 * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 * Cleanlab flags errors in data sets and helps to clean them up [CleanLab](https://github.com/cleanlab/cleanlab)
 
-## Interoperability & Integration
+## Interoperability, Integration, Organization
 * Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 * Tidy Data by Hadley Wickham provides [guidance data structure and cleaning for integration](https://en.wikipedia.org/wiki/Tidy_data)
 * Grid based sampling design [framework for household surveys](https://grid3.org/publications/grid-based-sample-design-framework-for-household-surveys)
 * GeoStat guidance on [spatial grid statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php/Population_grids#The_GEOSTAT_initiative)
+* H3 [hexagonal hierarchical geospatial indexing system](https://h3geo.org/) 
 * IEED Big Data Interoperability Framework [NBDIF](https://bigdatawg.nist.gov/V3_output_docs.php)
 * Analysis Ready Data [defined](https://medium.com/planet-stories/analysis-ready-data-defined-5694f6f48815)
 * IPUMS Census and Survey [documentation](https://ipums.org/)
