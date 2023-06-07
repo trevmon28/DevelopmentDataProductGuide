@@ -286,6 +286,7 @@ Mobile Location Data Providers (GPS)
 
 ## Other Data Project Management and Learning Resources
 
+* Free pdf of book that has taught a generation of data scientists [The Elements of Statistical Learning](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf) 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable and Tranparency in Analytics [BITTS](https://www.bitss.org/)
 * Git and Github [tutorials](https://docs.github.com/en/get-started/quickstart/set-up-git) 
