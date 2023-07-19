@@ -252,6 +252,7 @@ Mobile Location Data Providers (GPS)
 * ICRC [handbook on data protection in humanitarian action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
 * ICDPPC Resolution on [Privacy and Humanitarian action](https://www.apda.ad/sites/default/files/2018-10/2015_7_resolution-on-privacy-and-international-humanitarian-action-en.pdf)
 * GSMA [Mobile AI Covid Paper](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
+* US [White House Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 
 ## General Purpose Data Science 
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
