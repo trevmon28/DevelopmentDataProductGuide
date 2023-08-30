@@ -201,7 +201,8 @@ Mobile Location Data Providers (GPS)
 * Social Watcher is a [python tool to watch changes in Instragram and Twitter accounts}(https://pypi.org/project/social-watcher/)
 * PYSocialWatcher is a python tool for [facebook data collection](https://github.com/maraujo/pySocialWatcher)
 * Social Marketing API [data collection tutorial](https://worldbank.github.io/connectivity_mapping/intro.html)
-* Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring) 
+* Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring)
+* Holistic Evaluation of Language [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
 
 
 ### Mobile Data Tools 
