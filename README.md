@@ -176,6 +176,7 @@ Mobile Location Data Providers (GPS)
 * SDSN guide to [gridded population products in international development](https://www.sdsntrends.org/research/leavingnooneoffthemap)
 
 ### Text & Social 
+* Hugging Face [models tools for LLM, NLP](https://huggingface.co/)
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
 * GDELT [BigQuery event database](project)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
