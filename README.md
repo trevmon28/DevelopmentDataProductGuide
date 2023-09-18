@@ -175,11 +175,13 @@ Mobile Location Data Providers (GPS)
 * WorldPop guide to [gridded products and tools](https://www.worldpop.org/methods/populations)
 * SDSN guide to [gridded population products in international development](https://www.sdsntrends.org/research/leavingnooneoffthemap)
 
-### Text & Social 
+### Text, Social, LLM 
 * [Open AI](https://platform.openai.com/)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * Hugging Face [models tools for LLM, NLP](https://huggingface.co/)
 * Roberta [builds on BERT](https://huggingface.co/docs/transformers/model_doc/roberta)
+* BART is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/bart)
+* T5 is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/t5)
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
 * GDELT [BigQuery event database](project)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
