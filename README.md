@@ -177,6 +177,7 @@ Mobile Location Data Providers (GPS)
 
 ### Text & Social 
 * [Open AI](https://platform.openai.com/)
+* [Bloom](https://huggingface.co/bigscience/bloom)
 * Hugging Face [models tools for LLM, NLP](https://huggingface.co/)
 * Roberta [builds on BERT](https://huggingface.co/docs/transformers/model_doc/roberta)
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
