@@ -187,6 +187,7 @@ Mobile Location Data Providers (GPS)
 * GDELT [BigQuery event database](project)
 * Practical guide on text analytics with [Python Keras](https://realpython.com/python-keras-text-classification/)
 * Paper on framework for [massive language sentance embeddings] https://arxiv.org/abs/1812.10464
+* BloombergGPT is a [LLM for finance](https://arxiv.org/abs/2303.17564)
 * Trends in NLP [medium post](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
 * Paper on ["Robust Sparse methods on de-anonimization of large data sets"](https://www.cs.princeton.edu/~arvindn/publications/de-anonymization-retrospective.pdf)
 * Good Practices for collecting online data report from [UK NCRM](http://eprints.ncrm.ac.uk/4283/)
