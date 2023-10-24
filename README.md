@@ -175,7 +175,7 @@ Mobile Location Data Providers (GPS)
 * WorldPop guide to [gridded products and tools](https://www.worldpop.org/methods/populations)
 * SDSN guide to [gridded population products in international development](https://www.sdsntrends.org/research/leavingnooneoffthemap)
 
-### Text, Social, LLM 
+### Text, Social, Foundational, Large Language Models
 * [Open AI](https://platform.openai.com/)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * Hugging Face is an AI developer platform for [models tools for LLM, NLP](https://huggingface.co/)
@@ -216,6 +216,7 @@ Mobile Location Data Providers (GPS)
 * Social Marketing API [data collection tutorial](https://worldbank.github.io/connectivity_mapping/intro.html)
 * Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring)
 * Holistic Evaluation of Language [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
+* TimeGPT is a [foundational model for time series forecasting](https://docs.nixtla.io/)
 
 
 ### Mobile Data Tools 
