@@ -271,6 +271,7 @@ Mobile Location Data Providers (GPS)
 
 ## General Purpose Data Science 
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
+* Mamba is a [conda like cross-platform package manager](https://mamba.readthedocs.io/en/latest/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
 * Cookie Cutter Data Science is a [standard, flexible repo structure to support collaborative data science](https://github.com/drivendata/cookiecutter-data-science)
 * Google Earth Engine is a platform for [geospatial data science](https://earthengine.google.com/)
