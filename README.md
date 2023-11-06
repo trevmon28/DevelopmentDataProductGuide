@@ -175,11 +175,12 @@ Mobile Location Data Providers (GPS)
 * WorldPop guide to [gridded products and tools](https://www.worldpop.org/methods/populations)
 * SDSN guide to [gridded population products in international development](https://www.sdsntrends.org/research/leavingnooneoffthemap)
 
-### Text, Social, Foundational, Large Language Models
+### Foundational, Large Language Models, NLP, Text
 * [Open AI](https://platform.openai.com/)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * Hugging Face is an AI developer platform for [models tools for LLM, NLP](https://huggingface.co/)
 * Weights & Biases [AI developer platform](https://wandb.ai/site)
+* Open BMB is a repository for [Open Lab for Big Model Base](https://github.com/OpenBMB)
 * Roberta [builds on BERT](https://huggingface.co/docs/transformers/model_doc/roberta)
 * BART is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/bart)
 * T5 is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/t5)
