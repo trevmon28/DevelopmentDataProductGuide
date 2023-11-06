@@ -100,7 +100,7 @@ Mobile Location Data Providers (GPS)
 * GeoParquet is a specification for [storing geospatial vector data](https://github.com/opengeospatial/geoparquet)
 
 
-## Satellite
+## Remote Sensing
 
 ### Catalogs & Discovery
 * Earth on AWS repository of [satelltie data sets](https://aws.amazon.com/earth/)
@@ -185,6 +185,7 @@ Mobile Location Data Providers (GPS)
 * Roberta [builds on BERT](https://huggingface.co/docs/transformers/model_doc/roberta)
 * BART is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/bart)
 * T5 is a [sequence to sequence model](https://huggingface.co/docs/transformers/model_doc/t5)
+* Mistral 7b is a [open source, efficient LLM model](https://mistral.ai/news/announcing-mistral-7b/)
 * Palm is one of [Google's llm models](https://ai.google/discover/palm2/)
 * Ai2 Dolma from Allen AI is an [Open Corpus of Data for LLM pre-training](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)
 * GDELT project, large collection of free [online news, articles, text data](https://www.gdeltproject.org/data.html)
