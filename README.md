@@ -305,9 +305,9 @@ Mobile Location Data Providers (GPS)
 * Creative Commons Attribution 4.0 [CC-BY40](Creative Commons Attribution 4.0 (CC-BY 4.0))
 * MIT open source license for [data and data products](https://opensource.org/licenses/MIT) 
 
-
 ## Other Data Project Management and Learning Resources
 
+* Open Geospatial training [python and QGIS coursware](https://courses.spatialthoughts.com/)
 * Free pdf of book that has taught a generation of data scientists [The Elements of Statistical Learning](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf) 
 * Bit by Bit, online book version of [Social Research in Digital Age](https://www.bitbybitbook.com/en/1st-ed/preface/) by Matthew Salganik, also see bit by bit [teaching materials](https://github.com/msalganik/soc596_f2016/tree/master/slides)
 * Reusable and Tranparency in Analytics [BITTS](https://www.bitss.org/)
