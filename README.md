@@ -165,7 +165,8 @@ Mobile Location Data Providers (GPS)
 * [Geospatial Python Resource Guide](https://forrest.nyc/75-geospatial-python-and-spatial-data-science-resources-and-guides/)
 * IBM [Open source ML model asset exchange](https://developer.ibm.com/exchanges/models/)
 * Python Geospatial Collection of [Python tools for Geospatial analysis and visualization](https://github.com/giswqs/geospatial) 
-* [Awesome Data Fusion](https://github.com/px39n/Awesome-Data-Fusion-for-Remote-Sensing) 
+* [Awesome Data Fusion](https://github.com/px39n/Awesome-Data-Fusion-for-Remote-Sensing)
+* Spatial SQL [book for modern GIS practices](https://locatepress.com/book/spatial-sql)
 
 
 ### Gridded Population and Settlement Products
