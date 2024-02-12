@@ -278,6 +278,7 @@ Mobile Location Data Providers (GPS)
 * US [White House Blueprint for an AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/)
 
 ## General Purpose Data Science 
+* Github guide to [open source for the social sector](https://github.blog/2024-01-23-a-guide-to-open-source-for-the-social-sector/) 
 * Anaconda suite has range of [data science packages for R, Python, Jupyter](https://www.anaconda.com/)
 * Mamba is a [conda like cross-platform package manager](https://mamba.readthedocs.io/en/latest/)
 * Kaggle is a data science environement with [tools, data and learning resources](https://www.kaggle.com/)
