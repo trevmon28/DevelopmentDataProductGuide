@@ -67,6 +67,7 @@ Mobile Location Data Providers (GPS)
 * Cleanlab flags errors in data sets and helps to clean them up [CleanLab](https://github.com/cleanlab/cleanlab)
 
 ## Interoperability, Integration, Organization
+* ARIES for SEEA is for [Natural Capital Accounting](https://aries.integratedmodelling.org/aries-for-seea-explorer/) 
 * Radiant Earth guide on [Geo-referencing ground data for ML](https://medium.com/radiant-earth-insights/a-guide-for-collecting-and-sharing-ground-reference-data-for-machine-learning-applications-90664930925e)
 * Tidy Data by Hadley Wickham provides [guidance data structure and cleaning for integration](https://en.wikipedia.org/wiki/Tidy_data)
 * Grid based sampling design [framework for household surveys](https://grid3.org/publications/grid-based-sample-design-framework-for-household-surveys)
