@@ -225,8 +225,9 @@ Mobile Location Data Providers (GPS)
 * PYSocialWatcher is a python tool for [facebook data collection](https://github.com/maraujo/pySocialWatcher)
 * Social Marketing API [data collection tutorial](https://worldbank.github.io/connectivity_mapping/intro.html)
 * Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring)
-* Holistic Evaluation of Language [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
+* Holistic Evaluation of Language Models [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
 * TimeGPT is a [foundational model for time series forecasting](https://docs.nixtla.io/)
+  
 
 
 ### Mobile Data Tools 
