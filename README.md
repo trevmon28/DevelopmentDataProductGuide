@@ -227,6 +227,7 @@ Mobile Location Data Providers (GPS)
 * Twitter [data collection and analysis tool]( https://github.com/worldbank/TwitterEconomicMonitoring)
 * Holistic Evaluation of Language Models [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
 * TimeGPT is a [foundational model for time series forecasting](https://docs.nixtla.io/)
+* Langchain is a toolset to [link LLMs to real world applications](https://github.com/langchain-ai)
   
 
 
