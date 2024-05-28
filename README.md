@@ -182,6 +182,7 @@ Mobile Location Data Providers (GPS)
 * [Open AI](https://platform.openai.com/)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * Hugging Face is an AI developer platform for [models tools for LLM, NLP](https://huggingface.co/)
+* ZeroGPT is provides [free spaces and GPU for LLM development](https://huggingface.co/zero-gpu-explorers)
 * LlamaIndex is a [data framework for connecting custom data sources to large language models](https://www.llamaindex.ai/)
 * Weights & Biases [AI developer platform](https://wandb.ai/site)
 * Open BMB is a repository for [Open Lab for Big Model Base](https://github.com/OpenBMB)
@@ -228,7 +229,6 @@ Mobile Location Data Providers (GPS)
 * Holistic Evaluation of Language Models [HELM](https://crfm.stanford.edu/2022/11/17/helm.html)
 * TimeGPT is a [foundational model for time series forecasting](https://docs.nixtla.io/)
 * Langchain is a toolset to [link LLMs to real world applications](https://github.com/langchain-ai)
-  
 
 
 ### Mobile Data Tools 
