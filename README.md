@@ -65,6 +65,7 @@ Mobile Location Data Providers (GPS)
 * Groundwork tool by Azavea for [labeling imagery](https://groundwork.azavea.com/?utm_source=Azavea+Newsletter&utm_campaign=d14455c850-EMAIL_CAMPAIGN_2020_04_02_08_07&utm_medium=email&utm_term=0_d189bde191-d14455c850-415121589)
 * Label Maker data prep for satellite machine learning [Lable Maker](https://github.com/developmentseed/label-maker)
 * Cleanlab flags errors in data sets and helps to clean them up [CleanLab](https://github.com/cleanlab/cleanlab)
+* Overture provides [open interoperable map data](https://overturemaps.org/)
 
 ## Interoperability, Integration, Organization
 * Data mesh [standard for data catalogs](https://dpds.opendatamesh.org/overview/) 
